@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0  Date: 9/27/2012 2:11:10 PM
+#
+$CMP 74LS241
+D 8 bits Bus Buffer 3 State out
+K TTL Buffer BUS 3State
+$ENDCMP
+#
+$CMP 74LS244
+D 8 bits Bus Buffer 3 State out
+K TTL Buffer BUS 3State
+$ENDCMP
+#
+#End Doc Library

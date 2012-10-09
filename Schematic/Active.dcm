@@ -1,0 +1,22 @@
+EESchema-DOCLIB  Version 2.0  Date: 9/27/2012 12:30:33 PM
+#
+$CMP DIODE_SCHOTTKY
+D Diode schottky
+K DEV DIODE
+$ENDCMP
+#
+$CMP DIODE_STANDARD
+D Diode simple
+K DEV DIODE
+$ENDCMP
+#
+$CMP DIODE_ZENER
+D Diode zener
+K DEV DIODE
+$ENDCMP
+#
+$CMP LED
+K LED
+$ENDCMP
+#
+#End Doc Library
