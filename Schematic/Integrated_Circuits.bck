@@ -1,3 +1,33 @@
-EESchema-DOCLIB  Version 2.0  Date: 9/12/2012 9:50:10 PM
+EESchema-DOCLIB  Version 2.0  Date: 11/7/2012 4:33:57 PM
+#
+$CMP 74LS241
+D 8 bits Bus Buffer 3 State out
+K TTL Buffer BUS 3State
+$ENDCMP
+#
+$CMP 74LS244
+D 8 bits Bus Buffer 3 State out
+K TTL Buffer BUS 3State
+$ENDCMP
+#
+$CMP AS1115
+D Serial-interfaced 6-digit LED controller with keyscan
+$ENDCMP
+#
+$CMP AS1115-BQFT
+D 64 LEDs, I²C Interfaced LED Driver with Keyscan
+$ENDCMP
+#
+$CMP AS1115-BSST
+D Serial-interfaced 6-digit LED controller with keyscan
+$ENDCMP
+#
+$CMP STLED316S
+D Serial-interfaced 6-digit LED controller with keyscan
+$ENDCMP
+#
+$CMP STLED325
+D I²C interfaced, advanced LED controller/driver with keyscan, standby power management and real time clock (RTC)
+$ENDCMP
 #
 #End Doc Library
