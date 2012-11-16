@@ -1,6 +1,6 @@
-EESchema-DOCLIB  Version 2.0  Date: 8/17/2012 11:35:01 PM
+EESchema-DOCLIB  Version 2.0  Date: 11/7/2012 3:10:55 PM
 #
-$CMP MSP430G2553_N20
+$CMP MSP430G2553IN20
 F Z:/Engineering/Datasheets/Microcontrollers/TI/msp430g2x53_2x13.pdf
 $ENDCMP
 #
