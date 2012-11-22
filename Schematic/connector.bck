@@ -1,3 +1,12 @@
-EESchema-DOCLIB  Version 2.0  Date: 9/12/2012 8:12:36 PM
+EESchema-DOCLIB  Version 2.0  Date: 11/17/2012 12:23:31 AM
+#
+$CMP MDM_9W_RA
+D MDM 9-Pin Connector; Right-Angle
+K MDM
+$ENDCMP
+#
+$CMP WIRE_PAD
+D Wire Termination Pad; 20AWG
+$ENDCMP
 #
 #End Doc Library
