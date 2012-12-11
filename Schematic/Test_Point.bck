@@ -1,0 +1,28 @@
+EESchema-DOCLIB  Version 2.0  Date: 12/3/2012 4:37:35 PM
+#
+$CMP 500X
+D Keystone 50xx PTH Test Point
+K Test Point
+$ENDCMP
+#
+$CMP 5015
+D Keystone 50xx PTH Test Point
+K Test Point
+$ENDCMP
+#
+$CMP 5016
+D Keystone 50xx PTH Test Point
+K Test Point
+$ENDCMP
+#
+$CMP 5019
+D Keystone 50xx PTH Test Point
+K Test Point
+$ENDCMP
+#
+$CMP 50XX
+D Keystone 50xx PTH Test Point
+K Test Point
+$ENDCMP
+#
+#End Doc Library

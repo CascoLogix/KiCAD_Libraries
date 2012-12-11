@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0  Date: 12/6/2012 3:25:44 PM
+#
+$CMP AC_DC_CONVERTER
+D Rohm BP5039B12 AC to DC Converter 12 Volt Output 400mA
+K Converter Power Supply
+$ENDCMP
+#
+#End Doc Library
