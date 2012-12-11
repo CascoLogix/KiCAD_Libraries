@@ -1,3 +1,33 @@
-EESchema-DOCLIB  Version 2.0  Date: 9/12/2012 2:59:46 PM
+EESchema-DOCLIB  Version 2.0  Date: 12/6/2012 2:11:53 PM
+#
+$CMP RELAY_SPDT_T90N5D1
+D Potter & Brumfield T90-Series
+K Relay T90 SPDT Form C form
+$ENDCMP
+#
+$CMP RELAY_SPDT_T9AS5
+D Potter & Brumfield T9A-Series
+K Relay T9A SPDT Form C form
+$ENDCMP
+#
+$CMP RELAY_SPDT_T9AS5D1
+D Potter & Brumfield T9A-Series
+K Relay T9A SPDT Form C form
+$ENDCMP
+#
+$CMP RELAY_SPDT_T9AS5D2
+D Potter & Brumfield T9A-Series
+K Relay T9A SPDT Form C form
+$ENDCMP
+#
+$CMP RELAY_SPST_T90N1D1
+D Potter & Brumfield T90-Series open-frame relay
+$ENDCMP
+#
+$CMP RELAY_SPST_T9AS1D2
+D Potter & Brumfield T9A-Series
+K Relay T9A SPDT Form C form
+F Z:/Engineering/Datasheets/Electromechanical/Relays/Potter&Brumfield_T9A-Series.pdf
+$ENDCMP
 #
 #End Doc Library

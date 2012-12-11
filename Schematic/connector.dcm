@@ -1,8 +1,13 @@
-EESchema-DOCLIB  Version 2.0  Date: 11/17/2012 8:53:11 PM
+EESchema-DOCLIB  Version 2.0  Date: 12/3/2012 3:58:26 PM
 #
 $CMP MDM_9W_RA
 D MDM 9-Pin Connector; Right-Angle
 K MDM
+$ENDCMP
+#
+$CMP USB_Type_A
+D USB Connector
+K USB Connector
 $ENDCMP
 #
 $CMP WIRE_PAD
