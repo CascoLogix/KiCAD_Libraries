@@ -1,4 +1,9 @@
-EESchema-DOCLIB  Version 2.0  Date: 11/7/2012 4:34:08 PM
+EESchema-DOCLIB  Version 2.0  Date: 12/21/2012 9:58:57 PM
+#
+$CMP 74LS125
+D Quad buffer 3 State out
+K TTL buffer 3State
+$ENDCMP
 #
 $CMP 74LS241
 D 8 bits Bus Buffer 3 State out
