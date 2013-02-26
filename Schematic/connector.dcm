@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 12/12/2012 9:37:19 AM
+EESchema-DOCLIB  Version 2.0  Date: 2/25/2013 10:21:28 PM
 #
 $CMP CONNECTOR_USB_TYPE_A
 D USB Connector
@@ -16,6 +16,46 @@ K MDM
 $ENDCMP
 #
 $CMP WIRE_PAD
+D Wire Termination Pad; 20AWG
+$ENDCMP
+#
+$CMP WIRE_PAD_12AWG
+D Wire Termination Pad; 20AWG
+$ENDCMP
+#
+$CMP WIRE_PAD_14AWG
+D Wire Termination Pad; 20AWG
+$ENDCMP
+#
+$CMP WIRE_PAD_16AWG
+D Wire Termination Pad; 20AWG
+$ENDCMP
+#
+$CMP WIRE_PAD_18AWG
+D Wire Termination Pad; 20AWG
+$ENDCMP
+#
+$CMP WIRE_PAD_20AWG
+D Wire Termination Pad; 20AWG
+$ENDCMP
+#
+$CMP WIRE_PAD_22AWG
+D Wire Termination Pad; 20AWG
+$ENDCMP
+#
+$CMP WIRE_PAD_24AWG
+D Wire Termination Pad; 20AWG
+$ENDCMP
+#
+$CMP WIRE_PAD_26AWG
+D Wire Termination Pad; 20AWG
+$ENDCMP
+#
+$CMP WIRE_PAD_28AWG
+D Wire Termination Pad; 20AWG
+$ENDCMP
+#
+$CMP WIRE_PAD_30AWG
 D Wire Termination Pad; 20AWG
 $ENDCMP
 #
