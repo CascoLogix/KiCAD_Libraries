@@ -1,3 +1,9 @@
-EESchema-DOCLIB  Version 2.0  Date: 1/26/2013 8:14:18 PM
+EESchema-DOCLIB  Version 2.0  Date: 2/26/2013 11:05:23 AM
+#
+$CMP LTC4624JF
+D LTC LED 7-Segment Display
+K LED 7-Segment Display LTC4624 LTC4624JF
+F C:/Engineering/Datasheets/Displays/LED/7-Segment/Lite-On_LTC-4624JS.pdf
+$ENDCMP
 #
 #End Doc Library
