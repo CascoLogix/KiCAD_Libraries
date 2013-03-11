@@ -1,8 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 2/13/2013 9:57:51 AM
-#
-$CMP POT_Small
-D Resistance
-$ENDCMP
+EESchema-DOCLIB  Version 2.0  Date: 3/10/2013 5:09:45 PM
 #
 $CMP RES
 D Resistance
