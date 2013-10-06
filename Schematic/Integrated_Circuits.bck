@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 3/10/2013 3:21:22 PM
+EESchema-DOCLIB  Version 2.0
 #
 $CMP 74LS125
 D Quad buffer 3 State out
@@ -6,13 +6,9 @@ K TTL buffer 3State
 $ENDCMP
 #
 $CMP 74LS241
-D 8 bits Bus Buffer 3 State out
-K TTL Buffer BUS 3State
-$ENDCMP
-#
-$CMP 74LS244
-D 8 bits Bus Buffer 3 State out
-K TTL Buffer BUS 3State
+D Remote 8-bit I/O expander for I2C
+K IO Expander
+F C:/Engineering/Datasheets/Integrated_Circuits/Serial_IO_Expanders/NXP_Semiconductors_PCF8574_PCF8574A.pdf
 $ENDCMP
 #
 $CMP AS1115
@@ -25,6 +21,66 @@ $ENDCMP
 #
 $CMP AS1115-BSST
 D 64 LEDs, I²C Interfaced LED Driver with Keyscan
+$ENDCMP
+#
+$CMP AT24CM01-SO8
+D I2C-Compatible (2-wire) Serial EEPROM; 1-Mbit (131,072 x 8)
+K EEPROM
+F C:/Engineering/Datasheets/Memory/Atmel_AT24CM01.pdf
+$ENDCMP
+#
+$CMP CAT24M01-SO8
+D 1 Mb I2C CMOS Serial EEPROM
+K EEPROM
+F C:/Engineering/Datasheets/Memory/On_Semiconductor_CAT24M01.PDF
+$ENDCMP
+#
+$CMP M24M01-SO8
+D 1-Mbit serial I2C bus EEPROM
+K EEPROM
+F C:/Engineering/Datasheets/Memory/ST_Micro_M24M01.pdf
+$ENDCMP
+#
+$CMP M24M02-DR-SO8
+D 2-Mbit serial I2C bus EEPROM
+K EEPROM
+F C:\Engineering\Datasheets\Memory\ST_Micro_M24M02-DR.pdf
+$ENDCMP
+#
+$CMP M95M02-DR-SO8
+D 2-Mbit serial SPI bus EEPROM
+K EEPROM
+F C:\Engineering\Datasheets\Memory\ST_Micro_M95M02-DR.pdf
+$ENDCMP
+#
+$CMP MCP23008E/SO
+D 8-Bit I/O Expander with Serial Interface
+K IO Expander
+F C:/Engineering/Datasheets/Integrated_Circuits/Serial_IO_Expanders/Microchip_MCP23S08_MCP23008.pdf
+$ENDCMP
+#
+$CMP MCP23017E/ML
+D 64 LEDs, I²C Interfaced LED Driver with Keyscan
+$ENDCMP
+#
+$CMP MCP23017E/SP/SO/SS
+D Serial-interfaced 6-digit LED controller with keyscan
+$ENDCMP
+#
+$CMP MCP23S08E/SO
+D 8-Bit I/O Expander with Serial Interface
+K IO Expander
+F C:/Engineering/Datasheets/Integrated_Circuits/Serial_IO_Expanders/Microchip_MCP23S08_MCP23008.pdf
+$ENDCMP
+#
+$CMP MCP23S17E/SP/SO/SS
+D Serial-interfaced 6-digit LED controller with keyscan
+$ENDCMP
+#
+$CMP PCF8574T
+D Remote 8-bit I/O expander for I2C
+K IO Expander
+F C:/Engineering/Datasheets/Integrated_Circuits/Serial_IO_Expanders/NXP_Semiconductors_PCF8574_PCF8574A.pdf
 $ENDCMP
 #
 $CMP STLED316S
