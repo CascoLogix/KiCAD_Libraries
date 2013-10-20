@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 3/9/2013 7:46:45 PM
+EESchema-DOCLIB  Version 2.0
 #
 $CMP CONNECTOR_USB_TYPE_A
 D USB Connector
@@ -13,6 +13,11 @@ $ENDCMP
 $CMP MDM_9W_RA
 D MDM 9-Pin Connector; Right-Angle
 K MDM
+$ENDCMP
+#
+$CMP SOLDER_LINK
+D Solder Link
+K Solder Link
 $ENDCMP
 #
 $CMP WIRE_PAD
