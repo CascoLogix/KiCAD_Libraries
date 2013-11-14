@@ -1,8 +1,20 @@
-EESchema-DOCLIB  Version 2.0  Date: 3/10/2013 5:10:03 PM
+EESchema-DOCLIB  Version 2.0
 #
 $CMP RES
 D Resistance
 K R DEV
+$ENDCMP
+#
+$CMP RES_NET_8_BUS
+D 8-Resistor Network (Bussed)
+K Resistor Network
+F C:/Engineering/Datasheets/Discrete/Passive/Resistors/Rohm_MNR-Series.pdf
+$ENDCMP
+#
+$CMP RES_NET_8_ISO
+D 8-Resistor Network (Isolated)
+K Resistor Network
+F C:/Engineering/Datasheets/Discrete/Passive/Resistors/Rohm_MNR-Series.pdf
 $ENDCMP
 #
 $CMP RES_SMALL

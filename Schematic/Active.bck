@@ -1,4 +1,9 @@
-EESchema-DOCLIB  Version 2.0  Date: 3/10/2013 8:54:57 PM
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AAT3221
+D LDO Regulator
+F C:/Engineering/Datasheets/Integrated_Circuits/Regulators/Skyworks_AAT3221_AAT3222_202251B.pdf
+$ENDCMP
 #
 $CMP DIODE_SCHOTTKY
 D Diode schottky

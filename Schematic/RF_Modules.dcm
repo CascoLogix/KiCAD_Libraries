@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BLE112
+D BlueGiga BLE112 Bluetooth Low Energy - Single Mode - UART & I2C Interface
+K Bluetooth Low Energy Smart BLE112 BLE BlueGiga
+F C:/Engineering/Datasheets/Modules/BlueGiga/BlueGiga_BLE112_Datasheet.pdf
+$ENDCMP
+#
 $CMP BLE112-A
 D BlueGiga BLE112 Bluetooth Low Energy - Single Mode - UART & I2C Interface
 K Bluetooth Low Energy Smart BLE112 BLE BlueGiga

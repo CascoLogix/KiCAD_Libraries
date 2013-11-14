@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 12/3/2012 4:38:06 PM
+EESchema-DOCLIB  Version 2.0
 #
 $CMP 500X
 D Keystone 50xx PTH Test Point
@@ -6,18 +6,33 @@ K Test Point
 $ENDCMP
 #
 $CMP 5015
-D Keystone 50xx PTH Test Point
-K Test Point
+D Keystone 5015 SMT Test Point
+K Test Point 5015 SMT SMD
+F C:/Engineering/Datasheets/Test_Points/Keystone_5015.pdf
 $ENDCMP
 #
 $CMP 5016
-D Keystone 50xx PTH Test Point
-K Test Point
+D Keystone 5016 SMT Test Point
+K Test Point 5016 SMT SMD
+F C:/Engineering/Datasheets/Test_Points/Keystone_5016.pdf
+$ENDCMP
+#
+$CMP 5017
+D Keystone 5017 SMT Test Point
+K Test Point 5017 SMT SMD
+F C:/Engineering/Datasheets/Test_Points/Keystone_5017.pdf
+$ENDCMP
+#
+$CMP 5018
+D Keystone 5018 SMT Test Point
+K Test Point 5018 SMT SMD
+F C:/Engineering/Datasheets/Test_Points/Keystone_5018.pdf
 $ENDCMP
 #
 $CMP 5019
-D Keystone 50xx PTH Test Point
-K Test Point
+D Keystone 5019 SMT Test Point
+K Test Point 5019 SMT SMD
+F C:/Engineering/Datasheets/Test_Points/Keystone_5019.pdf
 $ENDCMP
 #
 $CMP 50XX

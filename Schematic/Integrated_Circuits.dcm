@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 7400X
+D Quad buffer 3 State out
+K TTL buffer 3State
+$ENDCMP
+#
 $CMP 74LS125
 D Quad buffer 3 State out
 K TTL buffer 3State
@@ -33,6 +38,11 @@ $CMP CAT24M01-SO8
 D 1 Mb I2C CMOS Serial EEPROM
 K EEPROM
 F C:/Engineering/Datasheets/Memory/On_Semiconductor_CAT24M01.PDF
+$ENDCMP
+#
+$CMP FT230XQ
+D USB to serial converter
+K UART USB Serial
 $ENDCMP
 #
 $CMP M24M01-SO8
