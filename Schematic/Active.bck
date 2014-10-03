@@ -20,6 +20,11 @@ D Diode zener
 K DEV DIODE
 $ENDCMP
 #
+$CMP FT230XQ
+D USB to serial converter
+K UART USB Serial
+$ENDCMP
+#
 $CMP LED
 K LED
 $ENDCMP
