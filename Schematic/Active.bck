@@ -29,4 +29,14 @@ $CMP LED
 K LED
 $ENDCMP
 #
+$CMP MOSFET_N
+D N-channel FET
+K FET, N-channel, MOSFET
+$ENDCMP
+#
+$CMP MOSFET_P
+D P-channel FET
+K FET, P-channel, MOSFET
+$ENDCMP
+#
 #End Doc Library

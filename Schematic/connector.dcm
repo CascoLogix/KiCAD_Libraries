@@ -20,6 +20,16 @@ D Solder Link
 K Solder Link
 $ENDCMP
 #
+$CMP SOLDER_LINK_NC
+D Solder Link
+K Solder Link
+$ENDCMP
+#
+$CMP SOLDER_LINK_NO
+D Solder Link
+K Solder Link
+$ENDCMP
+#
 $CMP WIRE_PAD
 D Wire Termination Pad; 20AWG
 $ENDCMP

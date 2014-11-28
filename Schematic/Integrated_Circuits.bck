@@ -40,6 +40,23 @@ K EEPROM
 F C:/Engineering/Datasheets/Memory/On_Semiconductor_CAT24M01.PDF
 $ENDCMP
 #
+$CMP CD40109B
+D Quad buffer 3 State out
+K TTL buffer 3State
+$ENDCMP
+#
+$CMP CD4504
+D CMOS Hex Voltage-Level Shifter for TTL-to-CMOS or CMOS-to-CMOS Operation
+K Voltage Translator, Hex Buffer, Level Shifter, Logic
+F C:/Engineering/Datasheets/Integrated_Circuits/Voltage Translator/TI_CD4504B.pdf
+$ENDCMP
+#
+$CMP CD74HC4050
+D High-Speed CMOS Logic Hex Buffer
+K Voltage Translator, Hex Buffer, Level Shifter, Logic
+F C:/Engineering/Datasheets/Integrated_Circuits/Voltage Translator/TI_CD74HC4050.pdf
+$ENDCMP
+#
 $CMP FT230XQ
 D USB to serial converter
 K UART USB Serial
@@ -85,6 +102,60 @@ $ENDCMP
 #
 $CMP MCP23S17E/SP/SO/SS
 D Serial-interfaced 6-digit LED controller with keyscan
+$ENDCMP
+#
+$CMP MCP7940M-I/MNY
+D Low-Cost I2C Real-Time Clock with SRAM
+K RTC, Real Time Clock, Calendar
+F C:/Engineering/Datasheets/Integrated_Circuits/RTC/Microchip_MCP7940M.pdf
+$ENDCMP
+#
+$CMP MCP7940M-I/MS
+D Low-Cost I2C Real-Time Clock with SRAM
+K RTC, Real Time Clock, Calendar
+F C:/Engineering/Datasheets/Integrated_Circuits/RTC/Microchip_MCP7940M.pdf
+$ENDCMP
+#
+$CMP MCP7940M-I/P
+D Low-Cost I2C Real-Time Clock with SRAM
+K RTC, Real Time Clock, Calendar
+F C:/Engineering/Datasheets/Integrated_Circuits/RTC/Microchip_MCP7940M.pdf
+$ENDCMP
+#
+$CMP MCP7940M-I/SN
+D Low-Cost I2C Real-Time Clock with SRAM
+K RTC, Real Time Clock, Calendar
+F C:/Engineering/Datasheets/Integrated_Circuits/RTC/Microchip_MCP7940M.pdf
+$ENDCMP
+#
+$CMP MCP7940M-I/ST
+D Low-Cost I2C Real-Time Clock with SRAM
+K RTC, Real Time Clock, Calendar
+F C:/Engineering/Datasheets/Integrated_Circuits/RTC/Microchip_MCP7940M.pdf
+$ENDCMP
+#
+$CMP MCP9800
+D 2-Wire (I2C) High-Accuracy Temperature Sensor
+K I2C, Temperature, Sensor
+F C:/Engineering/Datasheets/Sensors/Temperature/Microchip_MCP9800.pdf
+$ENDCMP
+#
+$CMP MCP9801
+D 2-Wire (I2C) High-Accuracy Temperature Sensor
+K I2C, Temperature, Sensor
+F C:/Engineering/Datasheets/Sensors/Temperature/Microchip_MCP9800.pdf
+$ENDCMP
+#
+$CMP MCP9802
+D 2-Wire (I2C) High-Accuracy Temperature Sensor (w/Serial Bus Timeout)
+K I2C, Temperature, Sensor
+F C:/Engineering/Datasheets/Sensors/Temperature/Microchip_MCP9800.pdf
+$ENDCMP
+#
+$CMP MCP9803
+D 2-Wire (I2C) High-Accuracy Temperature Sensor (w/Serial Bus Timeout)
+K I2C, Temperature, Sensor
+F C:/Engineering/Datasheets/Sensors/Temperature/Microchip_MCP9800.pdf
 $ENDCMP
 #
 $CMP PCF8574T
