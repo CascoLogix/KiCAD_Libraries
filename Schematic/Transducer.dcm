@@ -1,0 +1,24 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PIEZO_TRANSDUCER
+D Piezo Transducer
+K Piezo, Speaker, Annunciator, Buzzer, Transducer, Annunciator
+$ENDCMP
+#
+$CMP PS1240P02BT
+D Piezo Transducer
+K Piezo, Speaker, Annunciator, Buzzer, Transducer, Annunciator
+F C:/Engineering/Datasheets/Transducers/TDK_PS_Series.pdf
+$ENDCMP
+#
+$CMP SPEAKER
+D Voice Coil Speaker
+K Voice Coil, Speaker, Annunciator, Buzzer, Transducer
+$ENDCMP
+#
+$CMP SPEAKER_ALT
+D Voice Coil Speaker
+K Voice Coil, Speaker, Annunciator, Buzzer, Transducer
+$ENDCMP
+#
+#End Doc Library

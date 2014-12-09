@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AB26TRQ
+D Low Frequency Reflowable Tuning Fork Crystal
+K Crystal
+F C:/Engineering/Datasheets/Discrete/Passive/Crystals/Abracon_AB26TRQ.pdf
+$ENDCMP
+#
 $CMP RES
 D Resistance
 K R DEV

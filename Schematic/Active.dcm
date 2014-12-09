@@ -5,6 +5,17 @@ D LDO Regulator
 F C:/Engineering/Datasheets/Integrated_Circuits/Regulators/Skyworks_AAT3221_AAT3222_202251B.pdf
 $ENDCMP
 #
+$CMP BAV70L
+D Dual Switching Diode, Common Cathode
+K Diode, Dual, Pair, Common Cathode, Array
+F C:/Engineering/Datasheets/Discrete/Active/Diodes/On_Semiconductor_BAV70L.pdf
+$ENDCMP
+#
+$CMP DIODE_2_ARRAY_COMMON_CATHODE
+D Dual Switching Diode, Common Cathode
+K Diode, Dual, Pair, Common Cathode, Array
+$ENDCMP
+#
 $CMP DIODE_SCHOTTKY
 D Diode schottky
 K DEV DIODE

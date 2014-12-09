@@ -1,3 +1,9 @@
-EESchema-DOCLIB  Version 2.0  Date: 1/26/2013 10:17:42 PM
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BK-912
+D CR2032 Battery Retainer
+K CR2032, Battery, Holder
+F C:/Engineering/Datasheets/Batteries_Holders/Memory_Protection_Devices_BK-912.pdf
+$ENDCMP
 #
 #End Doc Library

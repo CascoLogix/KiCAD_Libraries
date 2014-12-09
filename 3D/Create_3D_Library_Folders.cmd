@@ -1,0 +1,6 @@
+mkdir %CD%\"CAD"
+mkdir %CD%\"STEP"
+mkdir %CD%\"IGES"
+mkdir %CD%\"Wings3D"
+mkdir %CD%\"VRML"
+mkdir %CD%\"STL"

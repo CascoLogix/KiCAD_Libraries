@@ -80,7 +80,19 @@ K EEPROM
 F C:\Engineering\Datasheets\Memory\ST_Micro_M95M02-DR.pdf
 $ENDCMP
 #
+$CMP MCP23008E/ML
+D 8-Bit I/O Expander with Serial Interface
+K IO Expander
+F C:/Engineering/Datasheets/Integrated_Circuits/Serial_IO_Expanders/Microchip_MCP23S08_MCP23008.pdf
+$ENDCMP
+#
 $CMP MCP23008E/SO
+D 8-Bit I/O Expander with Serial Interface
+K IO Expander
+F C:/Engineering/Datasheets/Integrated_Circuits/Serial_IO_Expanders/Microchip_MCP23S08_MCP23008.pdf
+$ENDCMP
+#
+$CMP MCP23008E/SS
 D 8-Bit I/O Expander with Serial Interface
 K IO Expander
 F C:/Engineering/Datasheets/Integrated_Circuits/Serial_IO_Expanders/Microchip_MCP23S08_MCP23008.pdf

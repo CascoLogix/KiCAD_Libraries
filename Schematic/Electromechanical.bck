@@ -13,6 +13,8 @@ F C:/Engineering/Datasheets/Electromechanical/Switches/Tyco_FSM-Series.pdf
 $ENDCMP
 #
 $CMP PTS810
+D Microminiature SMT Top Actuated Push Switch
+K Pushbutton, Button, Switch, Momentary
 F C:/Engineering/Datasheets/Electromechanical/Switches/C&K_PTS810.pdf
 $ENDCMP
 #
