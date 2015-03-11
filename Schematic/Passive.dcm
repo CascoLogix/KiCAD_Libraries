@@ -6,6 +6,12 @@ K Crystal
 F C:/Engineering/Datasheets/Discrete/Passive/Crystals/Abracon_AB26TRQ.pdf
 $ENDCMP
 #
+$CMP AC1020
+D Low Cost 50/60Hz Current Transformer
+K Transformer, Xfmr, Xfrmr, Current, CT
+F C:/Engineering/Datasheets/Sensors/Current_Sense/Telema_AC1020.pdf
+$ENDCMP
+#
 $CMP RES
 D Resistance
 K R DEV
