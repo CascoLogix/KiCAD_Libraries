@@ -80,9 +80,4 @@
   (pad 38 thru_hole circle (at 21.59 -1.27) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
   (pad 39 thru_hole circle (at 24.13 1.27) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
   (pad 40 thru_hole circle (at 24.13 -1.27) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
-  (model C:/Engineering/KiCAD_Libraries/3D/Headers/VRML/HEADER_M_2.54MM_1R10P_ST_AU_PTH.wrl
-    (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
 )

@@ -45,6 +45,12 @@ D N-channel FET
 K FET, N-channel, MOSFET
 $ENDCMP
 #
+$CMP MOSFET_N_BODY_DIODE_SMALL
+D N-Channel Logic Level Enhancement Mode Field Effect Transistor
+K FET, N-Channel
+F C:/Engineering/Datasheets/Discrete/Active/MOSFETs/Fairchild_BSS138.pdf
+$ENDCMP
+#
 $CMP MOSFET_P
 D P-channel FET
 K FET, P-channel, MOSFET
