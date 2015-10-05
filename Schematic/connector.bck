@@ -74,4 +74,10 @@ $CMP WIRE_PAD_30AWG
 D Wire Termination Pad; 20AWG
 $ENDCMP
 #
+$CMP u.FL
+D u.FL Straight Connector Jack, 50 Ohm, SMD
+K u.FL, RF
+F Z:\Engineering\Datasheets\Connectors\RF\Molex_0734120110.pdf
+$ENDCMP
+#
 #End Doc Library
