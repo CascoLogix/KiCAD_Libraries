@@ -15,6 +15,16 @@ D MDM 9-Pin Connector; Right-Angle
 K MDM
 $ENDCMP
 #
+$CMP SMA
+D SMA Straight Edge Connector Jack, 50 Ohm, SMD
+K SMA, RF
+$ENDCMP
+#
+$CMP SMA_Edge
+D SMA Straight Edge Connector Jack, 50 Ohm, SMD
+K SMA, Edge, RF
+$ENDCMP
+#
 $CMP SOLDER_LINK
 D Solder Link
 K Solder Link

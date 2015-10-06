@@ -12,6 +12,16 @@ K Transformer, Xfmr, Xfrmr, Current, CT
 F C:/Engineering/Datasheets/Sensors/Current_Sense/Telema_AC1020.pdf
 $ENDCMP
 #
+$CMP Antenna_Helical
+D Helical, or Spring, Antenna
+K Antenna
+$ENDCMP
+#
+$CMP Antenna_Helical_RA
+D Helical, or Spring, Antenna
+K Antenna
+$ENDCMP
+#
 $CMP RES
 D Resistance
 K R DEV
@@ -27,11 +37,6 @@ $CMP RES_NET_8_ISO
 D 8-Resistor Network (Isolated)
 K Resistor Network
 F C:/Engineering/Datasheets/Discrete/Passive/Resistors/Rohm_MNR-Series.pdf
-$ENDCMP
-#
-$CMP RES_SMALL
-D Resistance
-K R DEV
 $ENDCMP
 #
 #End Doc Library
