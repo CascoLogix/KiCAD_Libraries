@@ -1,4 +1,10 @@
-EESchema-DOCLIB  Version 2.0  Date: 11/7/2012 3:10:55 PM
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CC1310F128RGZ
+D CC1310 SimpleLink™ Ultralow Power Sub-1-GHz Wireless MCU
+K CC1310, SimpleLink, Sub 1-GHz, Wireless, LoRa, ARM, Cortex, M3
+F Z:/Engineering/Datasheets/Microcontrollers/TI/CC1310.pdf
+$ENDCMP
 #
 $CMP MSP430G2553IN20
 F Z:/Engineering/Datasheets/Microcontrollers/TI/msp430g2x53_2x13.pdf

@@ -22,6 +22,11 @@ D Helical, or Spring, Antenna
 K Antenna
 $ENDCMP
 #
+$CMP Crystal_Small_4_Pin
+D Two pin crystal
+K Quartz, Resonator, Ceramic, Filter
+$ENDCMP
+#
 $CMP RES
 D Resistance
 K R DEV

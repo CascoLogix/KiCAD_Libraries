@@ -12,9 +12,19 @@ K Transformer, Xfmr, Xfrmr, Current, CT
 F C:/Engineering/Datasheets/Sensors/Current_Sense/Telema_AC1020.pdf
 $ENDCMP
 #
+$CMP Antenna_Helical
+D Helical, or Spring, Antenna
+K Antenna
+$ENDCMP
+#
 $CMP Antenna_Helical_RA
 D Helical, or Spring, Antenna
 K Antenna
+$ENDCMP
+#
+$CMP Crystal_Small_4_Pin
+D Two pin crystal
+K Quartz, Resonator, Ceramic, Filter
 $ENDCMP
 #
 $CMP RES

@@ -1,10 +1,5 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP 7400X
-D Quad buffer 3 State out
-K TTL buffer 3State
-$ENDCMP
-#
 $CMP 74LS125
 D Quad buffer 3 State out
 K TTL buffer 3State
@@ -182,6 +177,12 @@ $ENDCMP
 #
 $CMP STLED325
 D I²C interfaced, advanced LED controller/driver with keyscan, standby power management and real time clock (RTC)
+$ENDCMP
+#
+$CMP Si4463
+D HIGH-PERFORMANCE, LOW-CURRENT TRANSCEIVER
+K Si4463, 915Mhz, ISM
+F Z:/Engineering/Datasheets/Integrated_Circuits/RF/Si4463/Si4463-61-60-C.pdf
 $ENDCMP
 #
 #End Doc Library

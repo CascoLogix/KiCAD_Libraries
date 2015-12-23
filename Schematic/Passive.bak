@@ -55,6 +55,23 @@ X ~ 3 150 -100 100 L 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
+# Antenna_Helical
+#
+DEF Antenna_Helical AE 0 40 N N 1 F N
+F0 "AE" 0 200 40 H V C CNN
+F1 "Antenna_Helical" 250 50 40 H V C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ ANTENNA_HELICAL*
+$ENDFPLIST
+DRAW
+P 2 0 1 0  0 150  0 100 N
+P 4 0 1 0  0 100  -50 150  50 150  0 100 N
+X In 1 0 0 100 U 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
 # Antenna_Helical_RA
 #
 DEF Antenna_Helical_RA AE 0 40 N N 1 F N
@@ -168,6 +185,29 @@ P 2 0 1 10  50 40  50 -40 N
 P 6 0 1 0  -30 0  -30 60  30 60  30 -60  -30 -60  -30 0 f
 X 1 1 -150 0 100 R 40 40 1 1 P
 X 2 2 150 0 100 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Crystal_Small_4_Pin
+#
+DEF Crystal_Small_4_Pin Y 0 40 N N 1 F N
+F0 "Y" 0 150 40 H V C CNN
+F1 "Crystal_Small_4_Pin" 375 -100 40 H V C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ Crystal_
+$ENDFPLIST
+DRAW
+S -30 -60 30 60 0 1 0 N
+P 2 0 1 0  -50 -30  -50 30 N
+P 2 0 1 0  50 -30  50 30 N
+P 4 0 1 0  -75 -50  -75 -100  75 -100  75 -50 N
+P 4 0 1 0  -75 50  -75 100  75 100  75 50 N
+X 1 1 -100 0 50 R 40 40 1 1 P
+X 1 1 -50 -150 50 U 40 40 1 1 P
+X 2 2 50 -150 50 U 40 40 1 1 P
+X 2 2 100 0 50 L 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
