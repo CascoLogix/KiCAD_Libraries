@@ -1,6 +1,7 @@
-(module mikroBUS_Small (layer F.Cu) (tedit 561DC395)
-  (fp_text reference REF** (at 0 3.81) (layer F.SilkS) hide
-    (effects (font (size 1 1) (thickness 0.15)))
+(module mikroBUS_Small (layer F.Cu) (tedit 562D70D6)
+  (attr virtual)
+  (fp_text reference "" (at 0 3.81) (layer F.SilkS) hide
+    (effects (font (size 1.016 1.016) (thickness 0.2032)))
   )
   (fp_text value mikroBUS_Small (at 0 -3.81) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))

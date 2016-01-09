@@ -10,4 +10,9 @@
   (fp_line (start -1.016 1.016) (end 1.016 1.016) (layer F.SilkS) (width 0.15))
   (pad 1 thru_hole circle (at 0 0) (size 1.7018 1.7018) (drill 0.9652) (layers *.Cu *.Mask))
   (pad 1 smd rect (at 0 -1.524) (size 1.7018 4.7752) (layers F.Cu F.Mask))
+  (model C:/Engineering/KiCAD_Libraries/3D/Discrete/Passive/Antenna/VRML/SW868-TH13.WRL
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
