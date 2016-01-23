@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CONNECTOR_USB
+D USB Connector
+K USB Connector
+$ENDCMP
+#
 $CMP CONNECTOR_USB_TYPE_A
 D USB Connector
 K USB Connector
@@ -13,6 +18,11 @@ $ENDCMP
 $CMP MDM_9W_RA
 D MDM 9-Pin Connector; Right-Angle
 K MDM
+$ENDCMP
+#
+$CMP Molex_0475710001
+D Micro SD Card Holder
+K SD, Micro SD, uSD
 $ENDCMP
 #
 $CMP SMA_Edge

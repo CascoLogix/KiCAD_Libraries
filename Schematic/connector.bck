@@ -15,14 +15,19 @@ D MDM 9-Pin Connector; Right-Angle
 K MDM
 $ENDCMP
 #
+$CMP Molex_0475710001
+D Micro SD Card Holder
+K SD, Micro SD, uSD
+$ENDCMP
+#
 $CMP SMA_Edge
 D SMA Straight Edge Connector Jack, 50 Ohm, SMD
 K SMA, Edge, RF
 $ENDCMP
 #
 $CMP SMA_Straight
-D SMA Straight Edge Connector Jack, 50 Ohm, SMD
-K SMA, Edge, RF
+D SMA Straight Straight Connector, 50 Ohm, Through-hole
+K SMA, Straight, RF
 $ENDCMP
 #
 $CMP SOLDER_LINK

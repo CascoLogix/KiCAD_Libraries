@@ -52,6 +52,12 @@ K Voltage Translator, Hex Buffer, Level Shifter, Logic
 F C:/Engineering/Datasheets/Integrated_Circuits/Voltage Translator/TI_CD74HC4050.pdf
 $ENDCMP
 #
+$CMP FL127
+D 128-Mbit serial SPI bus Flash
+K Flash
+F Z:/Engineering/Datasheets/Memory/Flash/Spansion_S25FL127S.pdf
+$ENDCMP
+#
 $CMP FT230XQ
 D USB to serial converter
 K UART USB Serial
@@ -163,6 +169,12 @@ $CMP MCP9803
 D 2-Wire (I2C) High-Accuracy Temperature Sensor (w/Serial Bus Timeout)
 K I2C, Temperature, Sensor
 F C:/Engineering/Datasheets/Sensors/Temperature/Microchip_MCP9800.pdf
+$ENDCMP
+#
+$CMP MIC3172
+D 100kHz SMPS current-mode controller with internal 65V 1.25A power switches.
+K Boost, Switching Regulator, SEPIC
+F Z:/Engineering/Datasheets/Integrated_Circuits/Switching_Regulators/Micrel_MIC2172.pdf
 $ENDCMP
 #
 $CMP PCF8574T

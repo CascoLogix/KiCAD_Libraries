@@ -1,3 +1,19 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 9VFemale
+D 9V Female Battery Contact (Positive Terminal)
+F Z:/Engineering/Datasheets/Batteries_Holders/Memory_Protection_Devices_BSPCF.pdf
+$ENDCMP
+#
+$CMP 9VMale
+D 9V Battery Male Contact (Negative Terminal)
+F Z:/Engineering/Datasheets/Batteries_Holders/Memory_Protection_Devices_BSPCM.pdf
+$ENDCMP
+#
+$CMP BK-912
+D CR2032 Battery Retainer
+K CR2032, Battery, Holder
+F C:/Engineering/Datasheets/Batteries_Holders/Memory_Protection_Devices_BK-912.pdf
+$ENDCMP
+#
 #End Doc Library
