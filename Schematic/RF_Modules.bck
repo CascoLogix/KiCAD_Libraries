@@ -35,4 +35,16 @@ K Bluetooth Low Energy Smart BLE113 BLE BlueGiga
 F C:/Engineering/Datasheets/Modules/BlueGiga/BlueGiga_BLE113_Datasheet.pdf
 $ENDCMP
 #
+$CMP RFM69
+D HopeRF RFM69 Transceiver Module
+K RFM, RFM69
+F Z:\Engineering\Datasheets\Modules\HopeRF\HopeRF_RFM69HW-V1.3.pdf
+$ENDCMP
+#
+$CMP RFM95W
+D Low Power Long Range Transceiver Module
+K LoRa
+F Z:\Engineering\Datasheets\Modules\HopeRF\RFM95_96_97_98W.pdf
+$ENDCMP
+#
 #End Doc Library

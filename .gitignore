@@ -1,4 +1,4 @@
-﻿Templates/In-Work/*
+Templates/In-Work/*
 kcswalter's Libraries/*
 3D/Solidworks/*
 *.zip
@@ -110,3 +110,5 @@ sync.ffs_db
 TI_MSP430_v16.lbr
 KiCAD Feature Requests.rtf
 Library component creation process.rtf
+*.wings#
+Templates_In_Work/
