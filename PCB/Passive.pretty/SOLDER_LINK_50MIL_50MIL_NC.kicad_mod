@@ -1,0 +1,13 @@
+(module SOLDER_LINK_50MIL_50MIL_NC (layer F.Cu) (tedit 5705BE35)
+  (fp_text reference SOLDER_LINK_NO (at 0 1.27) (layer F.Fab)
+    (effects (font (size 0.762 0.762) (thickness 0.127)))
+  )
+  (fp_text value VAL** (at 0 -1.27) (layer F.SilkS) hide
+    (effects (font (size 0.762 0.762) (thickness 0.127)))
+  )
+  (fp_line (start -0.254 0) (end 0.254 0) (layer F.Cu) (width 0.254))
+  (pad 1 smd rect (at -0.381 0) (size 0.508 1.27) (layers F.Cu F.Mask)
+    (solder_mask_margin 0.254))
+  (pad 2 smd rect (at 0.381 0) (size 0.508 1.27) (layers F.Cu F.Mask)
+    (solder_mask_margin 0.254))
+)

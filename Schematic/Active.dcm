@@ -36,7 +36,7 @@ D USB to serial converter
 K UART USB Serial
 $ENDCMP
 #
-$CMP LED
+$CMP LED_Small
 K LED
 $ENDCMP
 #

@@ -14,9 +14,9 @@
   (fp_line (start -0.762 0.4064) (end -0.254 0.4064) (layer F.SilkS) (width 0.0762))
   (pad 1 smd rect (at -0.44958 0) (size 0.39878 0.59944) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 0.44958 0) (size 0.39878 0.59944) (layers F.Cu F.Paste F.Mask))
-  (model smd\chip_cms.wrl
+  (model C:/Engineering/KiCAD_Libraries/3D/Discrete/Passive/Resistors/VRML/R0402.wrl
     (at (xyz 0 0 0.002))
-    (scale (xyz 0.05 0.05 0.05))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

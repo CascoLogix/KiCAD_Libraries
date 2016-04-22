@@ -40,6 +40,10 @@ $CMP LED
 K LED
 $ENDCMP
 #
+$CMP LED_Small
+K LED
+$ENDCMP
+#
 $CMP MOSFET_N
 D N-channel FET
 K FET, N-channel, MOSFET
