@@ -5,6 +5,12 @@ D LDO Regulator
 F C:/Engineering/Datasheets/Integrated_Circuits/Regulators/Skyworks_AAT3221_AAT3222_202251B.pdf
 $ENDCMP
 #
+$CMP AOZ1284
+D 3.0V to 36V Input Range EZBuck 4A Simple Buck Regulator
+K DC-DC Converter, Step Down, Buck
+F Z:/Engineering/Datasheets/Power_Supplies/DC-DC_Converters/Alpha_Omega_Semiconductor_AOZ1284.pdf
+$ENDCMP
+#
 $CMP BAV70L
 D Dual Switching Diode, Common Cathode
 K Diode, Dual, Pair, Common Cathode, Array
@@ -54,6 +60,12 @@ $ENDCMP
 $CMP MOSFET_P
 D P-channel FET
 K FET, P-channel, MOSFET
+$ENDCMP
+#
+$CMP MP1584
+D 3A, 1.5MHz, 4.5V-28V Input Range Step-Down Converter
+K Buck, DC-DC Converter, Step Down
+F Z:/Engineering/Datasheets/Power_Supplies/DC-DC_Converters/MPS_MP1584.pdf
 $ENDCMP
 #
 #End Doc Library

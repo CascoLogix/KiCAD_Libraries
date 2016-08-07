@@ -36,10 +36,6 @@ D USB to serial converter
 K UART USB Serial
 $ENDCMP
 #
-$CMP LED
-K LED
-$ENDCMP
-#
 $CMP LED_Small
 K LED
 $ENDCMP
@@ -58,6 +54,12 @@ $ENDCMP
 $CMP MOSFET_P
 D P-channel FET
 K FET, P-channel, MOSFET
+$ENDCMP
+#
+$CMP MP1584
+D 3A, 1.5MHz, 4.5V-28V Input Range Step-Down Converter
+K Buck, DC-DC Converter, Step Down
+F Z:/Engineering/Datasheets/Power_Supplies/DC-DC_Converters/MPS_MP1584.pdf
 $ENDCMP
 #
 #End Doc Library

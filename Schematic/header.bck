@@ -5,8 +5,18 @@ D XBee Socket, Female, Pinout shows Data Terminal Equipment (DTE) perspective
 K XBee
 $ENDCMP
 #
+$CMP HEADER_F_XBEE_PTH_DCE
+D XBee Socket, Female, Pinout shows Data Terminal Equipment (DTE) perspective
+K XBee
+$ENDCMP
+#
+$CMP HEADER_F_XBEE_PTH_DTE
+D XBee Socket, Female, Pinout shows Data Terminal Equipment (DTE) perspective
+K XBee
+$ENDCMP
+#
 $CMP HEADER_M_XBEE_PTH
-D XBee Header, Male, Pinout shows Data Terminal Equipment (DTE) perspective
+D XBee Module, Male, Pinout shows Data Terminal Equipment (DTE) perspective
 K XBee
 $ENDCMP
 #

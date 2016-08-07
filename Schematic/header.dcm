@@ -1,12 +1,12 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP HEADER_F_XBEE_PTH
+$CMP HEADER_F_XBEE_PTH_DCE
 D XBee Socket, Female, Pinout shows Data Terminal Equipment (DTE) perspective
 K XBee
 $ENDCMP
 #
-$CMP HEADER_M_XBEE_PTH
-D XBee Module, Male, Pinout shows Data Terminal Equipment (DTE) perspective
+$CMP HEADER_F_XBEE_PTH_DTE
+D XBee Socket, Female, Pinout shows Data Terminal Equipment (DTE) perspective
 K XBee
 $ENDCMP
 #
