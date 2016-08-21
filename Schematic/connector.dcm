@@ -20,6 +20,12 @@ D MDM 9-Pin Connector; Right-Angle
 K MDM
 $ENDCMP
 #
+$CMP MOLEX_USB_MICRO
+D USB micro connector
+K USB  OTG  Micro
+F http://www.molex.com/pdm_docs/sd/1051330001_sd.pdf
+$ENDCMP
+#
 $CMP Molex_0475710001
 D Micro SD Card Holder
 K SD, Micro SD, uSD
@@ -48,6 +54,12 @@ $ENDCMP
 $CMP SOLDER_LINK_NO
 D Solder Link
 K Solder Link
+$ENDCMP
+#
+$CMP USB_OTG
+D USB micro connector, vertical
+K USB OTG Micro
+F http://www.molex.com/pdm_docs/sd/1051330001_sd.pdf
 $ENDCMP
 #
 $CMP WIRE_PAD

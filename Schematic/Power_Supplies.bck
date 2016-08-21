@@ -5,9 +5,30 @@ D Rohm BP5039B12 AC to DC Converter 12 Volt Output 400mA
 K Converter Power Supply
 $ENDCMP
 #
+$CMP AHCN-3.3S
+D Beta Dyne AHCN-3.3S 4W AC DC power module
+K AC DC Converter, Power Supply
+F http://www.archcorp.com.tw/pdf/AHCN.pdf
+$ENDCMP
+#
+$CMP AHCN-5S
+D Beta Dyne AHCN-5S 5W AC DC power module
+K AC DC Converter, Power Supply
+$ENDCMP
+#
 $CMP D-SUN
-D DC-DC Converter 7V to 28VDC Non-isolated step-down module (buck), 5VDC+/-3%, 2.5A (Max), 1.0A (Cont), 1MHz
+D 7V to 28VDC Non-isolated step-down module (buck), 5VDC+/-3%, 2.5A (Max), 1.0A (Cont), 1MHz
 K DC-DC Converter, Buck, Step Down
+$ENDCMP
+#
+$CMP HLK-PM03
+D AC DC power module
+K AC DC Converter, Power Supply
+$ENDCMP
+#
+$CMP HLK-PM05
+D AC DC power module
+K AC DC Converter, Power Supply
 $ENDCMP
 #
 #End Doc Library

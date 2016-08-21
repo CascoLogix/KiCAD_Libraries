@@ -5,6 +5,29 @@ D LDO Regulator
 F C:/Engineering/Datasheets/Integrated_Circuits/Regulators/Skyworks_AAT3221_AAT3222_202251B.pdf
 $ENDCMP
 #
+$CMP AAT3510
+D Micropower Microprocessor Push/Pull Reset with Watchdog Timer
+K Reset Circuit, PMIC Supervisor
+F http://www.mouser.com/ds/2/472/202243A-258395.pdf
+$ENDCMP
+#
+$CMP AOZ1284
+D 3.0V to 36V Input Range EZBuck 4A Simple Buck Regulator
+K DC-DC Converter, Step Down, Buck
+F Z:/Engineering/Datasheets/Power_Supplies/DC-DC_Converters/Alpha_Omega_Semiconductor_AOZ1284.pdf
+$ENDCMP
+#
+$CMP AP22802
+D SINGLE CHANNEL POWER DISTRIBUTION LOAD SWITCH
+F Z:/Engineering/Datasheets/Integrated_Circuits/Diodes_Inc_AP22802.pdf
+$ENDCMP
+#
+$CMP APX809
+D MICROPROCESSOR RESET CIRCUIT
+K Reset Circuit, PMIC Supervisor
+F http://www.diodes.com/_files/datasheets/APX809_APX810.pdf
+$ENDCMP
+#
 $CMP BAV70L
 D Dual Switching Diode, Common Cathode
 K Diode, Dual, Pair, Common Cathode, Array
@@ -40,6 +63,24 @@ $CMP LED_Small
 K LED
 $ENDCMP
 #
+$CMP LM2596
+D LM2596 Simple Switcher Power Converter 150-kHz
+K Step-Down Voltage Regulator
+F Z:/Engineering/Datasheets/Integrated_Circuits/Regulators/TI_LM2596.pdf
+$ENDCMP
+#
+$CMP LTC4413
+D Dual 2.6A, 2.5V to 5.5V Fast Ideal Diodes
+K Ideal Diode
+F Z:/Engineering/Datasheets/Integrated_Circuits/Linear_Tech_LTC4413.pdf
+$ENDCMP
+#
+$CMP MAX6326
+D Ultra-low power microprocessor reset circuit
+K Reset Circuit, PMIC Supervisor
+F Z:/Engineering/Datasheets/Integrated_Circuits/PMIC_Supervisor/Maxim_MAX6326.pdf
+$ENDCMP
+#
 $CMP MOSFET_N
 D N-channel FET
 K FET, N-channel, MOSFET
@@ -60,6 +101,22 @@ $CMP MP1584
 D 3A, 1.5MHz, 4.5V-28V Input Range Step-Down Converter
 K Buck, DC-DC Converter, Step Down
 F Z:/Engineering/Datasheets/Power_Supplies/DC-DC_Converters/MPS_MP1584.pdf
+$ENDCMP
+#
+$CMP RT9819
+D Micro-Power Voltage Detector
+K Reset Circuit, PMIC Supervisor
+F http://www.richtek.com/assets/product_file/RT9819/DS9819-08.pdf
+$ENDCMP
+#
+$CMP TSM9117
+D 1.6V Nanopower Comparators with/without Internal References
+F Z:/Engineering/Datasheets/Integrated_Circuits/Comparators/Silicon Labs_TSM9117.pdf
+$ENDCMP
+#
+$CMP TSM9119
+D 1.6V Nanopower Comparators with/without Internal References
+F Z:/Engineering/Datasheets/Integrated_Circuits/Comparators/Silicon Labs_TSM9117.pdf
 $ENDCMP
 #
 #End Doc Library
