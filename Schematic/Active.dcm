@@ -265,6 +265,12 @@ K Reset Circuit, PMIC Supervisor
 F http://www.richtek.com/assets/product_file/RT9819/DS9819-08.pdf
 $ENDCMP
 #
+$CMP TPS63000
+D TPS6300x High-Efficient Single Inductor Buck-Boost Converter With 1.8-A Switches
+K Buck-Boost, Buck, Boost, Converter, DC-DC, Switching, Regulator
+F http://www.ti.com/lit/ds/symlink/tps63001.pdf
+$ENDCMP
+#
 $CMP TSM9117
 D 1.6V Nanopower Comparators with/without Internal References
 F Z:/Engineering/Datasheets/Integrated_Circuits/Comparators/Silicon Labs_TSM9117.pdf

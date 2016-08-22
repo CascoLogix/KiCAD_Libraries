@@ -27,6 +27,16 @@ D Two pin crystal
 K Quartz, Resonator, Ceramic, Filter
 $ENDCMP
 #
+$CMP PTC
+D Resistance
+K R DEV
+$ENDCMP
+#
+$CMP PTC_Small
+D Resistance
+K R DEV
+$ENDCMP
+#
 $CMP RES
 D Resistance
 K R DEV
