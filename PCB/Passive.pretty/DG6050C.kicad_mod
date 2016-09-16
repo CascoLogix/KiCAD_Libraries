@@ -11,4 +11,9 @@
   (fp_line (start 3.3 -3.2) (end -3.3 -3.2) (layer F.SilkS) (width 0.13))
   (pad 1 smd rect (at -2.35 0) (size 1.6 5.7) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 2.35 0) (size 1.6 5.7) (layers F.Cu F.Paste F.Mask))
+  (model C:/Engineering/KiCAD_Libraries/3D/Discrete/Passive/Inductors/VRML/SRN6045_Series.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

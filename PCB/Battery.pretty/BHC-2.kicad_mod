@@ -16,4 +16,9 @@
   (pad 2 thru_hole circle (at 27.5844 0) (size 2.0574 2.0574) (drill 1.1684) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at -17.272 0) (size 6.35 6.35) (drill 3.302) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at 17.272 0) (size 6.35 6.35) (drill 3.302) (layers *.Cu *.Mask))
+  (model C:/Engineering/KiCAD_Libraries/3D/Battery_Holders/VRML/BHC-2.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

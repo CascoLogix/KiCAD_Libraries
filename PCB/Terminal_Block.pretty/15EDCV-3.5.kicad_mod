@@ -41,7 +41,7 @@
   (pad 6 thru_hole circle (at 5.25 0) (size 2.475 2.475) (drill 1.414) (layers *.Cu *.Mask))
   (pad 7 thru_hole circle (at 8.75 0) (size 2.475 2.475) (drill 1.414) (layers *.Cu *.Mask))
   (pad 8 thru_hole circle (at 12.25 0) (size 2.475 2.475) (drill 1.414) (layers *.Cu *.Mask))
-  (model "C:/Users/CascoLogix/Google Drive/Kickstarter1/Hardware_Design/Tuffduino/3D_Models/3.5mm_TB_assembled.wrl"
+  (model C:/Engineering/KiCAD_Libraries/3D/Terminal_Blocks/VRML/3.5mm_TB_assembled.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
