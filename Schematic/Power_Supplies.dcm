@@ -32,4 +32,9 @@ D AC DC power module
 K AC DC Converter, Power Supply
 $ENDCMP
 #
+$CMP SHB-5W
+D SHANBO SHB-5W 5W AC DC power module
+K AC DC Converter, Power Supply
+$ENDCMP
+#
 #End Doc Library

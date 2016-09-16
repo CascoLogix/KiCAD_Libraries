@@ -14,6 +14,7 @@ $ENDCMP
 $CMP AHCN-5S
 D Beta Dyne AHCN-5S 5W AC DC power module
 K AC DC Converter, Power Supply
+F http://www.archcorp.com.tw/pdf/AHCN.pdf
 $ENDCMP
 #
 $CMP D-SUN

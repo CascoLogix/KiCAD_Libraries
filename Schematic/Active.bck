@@ -253,16 +253,32 @@ D P-channel FET
 K FET, P-channel, MOSFET
 $ENDCMP
 #
+$CMP MOSFET_P_BODY_DIODE_SMALL
+D N-Channel Logic Level Enhancement Mode Field Effect Transistor
+K FET, N-Channel
+F C:/Engineering/Datasheets/Discrete/Active/MOSFETs/Fairchild_BSS138.pdf
+$ENDCMP
+#
 $CMP MP1584
 D 3A, 1.5MHz, 4.5V-28V Input Range Step-Down Converter
 K Buck, DC-DC Converter, Step Down
 F Z:/Engineering/Datasheets/Power_Supplies/DC-DC_Converters/MPS_MP1584.pdf
 $ENDCMP
 #
+$CMP PRTR5V0U2X
+D Ultra low capacitance double rail-to-rail ESD protection diode
+$ENDCMP
+#
 $CMP RT9819
 D Micro-Power Voltage Detector
 K Reset Circuit, PMIC Supervisor
 F http://www.richtek.com/assets/product_file/RT9819/DS9819-08.pdf
+$ENDCMP
+#
+$CMP TPS63000
+D TPS6300x High-Efficient Single Inductor Buck-Boost Converter With 1.8-A Switches
+K Buck-Boost, Buck, Boost, Converter, DC-DC, Switching, Regulator
+F http://www.ti.com/lit/ds/symlink/tps63001.pdf
 $ENDCMP
 #
 $CMP TSM9117
@@ -273,6 +289,11 @@ $ENDCMP
 $CMP TSM9119
 D 1.6V Nanopower Comparators with/without Internal References
 F Z:/Engineering/Datasheets/Integrated_Circuits/Comparators/Silicon Labs_TSM9117.pdf
+$ENDCMP
+#
+$CMP TVS_Small
+D Transient voltage suppressor diode (bi-directional)
+K DEV TVS TRANSIENT SUPPROESSOR ESD
 $ENDCMP
 #
 #End Doc Library

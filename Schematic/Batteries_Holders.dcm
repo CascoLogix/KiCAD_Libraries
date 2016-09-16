@@ -10,6 +10,12 @@ D 9V Battery Male Contact (Negative Terminal)
 F Z:/Engineering/Datasheets/Batteries_Holders/Memory_Protection_Devices_BSPCM.pdf
 $ENDCMP
 #
+$CMP BHC-2
+D C-cell Holder With PC Pins
+K C-Size, Battery, Holder, Cell
+F http://www.memoryprotectiondevices.com/datasheets/BHC-2-datasheet.pdf
+$ENDCMP
+#
 $CMP BK-912
 D CR2032 Battery Retainer
 K CR2032, Battery, Holder

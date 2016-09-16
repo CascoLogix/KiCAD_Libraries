@@ -22,9 +22,20 @@ D Helical, or Spring, Antenna
 K Antenna
 $ENDCMP
 #
+$CMP Antenna_PCB
+D PCB Trace Antenna
+K Antenna
+$ENDCMP
+#
 $CMP Crystal_Small_4_Pin
 D Two pin crystal
 K Quartz, Resonator, Ceramic, Filter
+$ENDCMP
+#
+$CMP DG6050C
+D Ferrite Inductor
+K Low Profile, Magnetic Shield, DC-DC Covnerter
+F http://www.toko.co.jp/products-murata/pdf/inductors/m_dg6050c.pdf
 $ENDCMP
 #
 $CMP PTC

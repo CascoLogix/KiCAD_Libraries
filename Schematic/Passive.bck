@@ -22,6 +22,11 @@ D Helical, or Spring, Antenna
 K Antenna
 $ENDCMP
 #
+$CMP Antenna_PCB
+D PCB Trace Antenna
+K Antenna
+$ENDCMP
+#
 $CMP Crystal_Small_4_Pin
 D Two pin crystal
 K Quartz, Resonator, Ceramic, Filter
@@ -33,8 +38,8 @@ K R DEV
 $ENDCMP
 #
 $CMP PTC_Small
-D Resistance
-K R DEV
+D PTC Fuse
+K PTC, Fuse, Protection
 $ENDCMP
 #
 $CMP RES

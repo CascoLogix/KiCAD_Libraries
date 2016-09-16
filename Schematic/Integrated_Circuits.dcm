@@ -52,6 +52,12 @@ K Voltage Translator, Hex Buffer, Level Shifter, Logic
 F C:/Engineering/Datasheets/Integrated_Circuits/Voltage Translator/TI_CD74HC4050.pdf
 $ENDCMP
 #
+$CMP DIO6605B
+D 5V Output, High-Efficiency 1.2MHz, Synchronous Step-Up Converter
+K DIO6605B, DC-DC, Step-Up
+F http://www.mouser.com/ds/2/802/dioo_06292016_DIO6605B%20V0%202-964621.pdf
+$ENDCMP
+#
 $CMP FL127
 D 128-Mbit serial SPI bus Flash
 K Flash
