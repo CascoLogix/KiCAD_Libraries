@@ -17,7 +17,7 @@
   (pad 4 smd rect (at 1.4478 0) (size 0.9906 2.2098) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -1.4478 0) (size 0.9906 2.2098) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 0 -1.4859) (size 0.9906 0.9906) (layers F.Cu F.Paste F.Mask))
-  (model Z:/Engineering/KiCAD_Libraries/3D/Connectors/RF/VRML/UFL-R-SMD.wrl
+  (model C:/Engineering/KiCAD_Libraries/3D/Connectors/RF/VRML/UFL-R-SMD.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
