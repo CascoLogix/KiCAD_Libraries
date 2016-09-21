@@ -114,3 +114,12 @@ Library component creation process.rtf
 Templates_In_Work/
 KiCAD_Library_Sync.ffs_gui
 Templates/
+KiCAD_Default/
+RocketScreamKicadLibrary/
+kicad-ESP8266-master/
+3D/
+*.xlsx
+*.dxf
+*.dxf~
+PCB/ZZ_Working/
+*.pdf
