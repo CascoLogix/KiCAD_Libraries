@@ -18,4 +18,9 @@
   (pad 8 smd rect (at 1.27 -1.95) (size 0.76 2.4) (layers F.Cu F.Paste F.Mask))
   (pad 9 smd rect (at 2.54 1.95) (size 0.76 2.4) (layers F.Cu F.Paste F.Mask))
   (pad 10 smd rect (at 2.54 -1.95) (size 0.76 2.4) (layers F.Cu F.Paste F.Mask))
+  (model C:/Engineering/KiCAD_Libraries/3D/Headers/VRML/HEADER_M_1.27MM_2R10P_ST_AU_SMT.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
