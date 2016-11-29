@@ -1,0 +1,235 @@
+Cmp-Mod V01 Created by PcbNew   date = 4/6/2016 9:09:16 PM
+
+BeginCmp
+TimeStamp = 570096AA
+Path = /5700B557
+Reference = U1;
+ValeurCmp = MDBT40;
+IdModule  = RF_Modules:MDBT40;
+EndCmp
+
+BeginCmp
+TimeStamp = 54542454
+Path = /5700D9F3
+Reference = P1;
+ValeurCmp = XBee Pins Footprint;
+IdModule  = Header:HEADER_XBEE;
+EndCmp
+
+BeginCmp
+TimeStamp = 5700A4DB
+Path = /5700DCFD
+Reference = J1;
+ValeurCmp = HEADER_F_2.54MM_1R6P_ST_AU_PTH;
+IdModule  = Header:HEADER_F_2.54MM_1R6P_ST_AU_PTH;
+EndCmp
+
+BeginCmp
+TimeStamp = 5700A4A4
+Path = /5700DE05
+Reference = J2;
+ValeurCmp = HEADER_F_2.54MM_1R6P_ST_AU_PTH;
+IdModule  = Header:HEADER_F_2.54MM_1R6P_ST_AU_PTH;
+EndCmp
+
+BeginCmp
+TimeStamp = 5701D40E
+Path = /57028A5F
+Reference = C8;
+ValeurCmp = 22uF;
+IdModule  = Passive:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5701D414
+Path = /57030456
+Reference = DS1;
+ValeurCmp = YEL;
+IdModule  = Active:D0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5701D4CC
+Path = /5700C258
+Reference = Y1;
+ValeurCmp = 32.768k;
+IdModule  = Passive:XTAL_3.2MM_1.5MM_SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = 57035DE0
+Path = /570105A7
+Reference = L3;
+ValeurCmp = 10uH;
+IdModule  = Passive:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5701D42E
+Path = /57011BCF
+Reference = L5;
+ValeurCmp = 15nH;
+IdModule  = Passive:0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 5701D452
+Path = /5701B271
+Reference = R5;
+ValeurCmp = 12k;
+IdModule  = Passive:0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 5701D446
+Path = /5701A629
+Reference = R2;
+ValeurCmp = 4.7k;
+IdModule  = Passive:0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 5701D43A
+Path = /57012E0F
+Reference = R1;
+ValeurCmp = 0;
+IdModule  = Passive:0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 5701D404
+Path = /57015B92
+Reference = C7;
+ValeurCmp = 15pF;
+IdModule  = Passive:0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 5701D3F8
+Path = /57015E5A
+Reference = C6;
+ValeurCmp = 15pF;
+IdModule  = Passive:0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 5701D3EC
+Path = /57018FA4
+Reference = C5;
+ValeurCmp = 47nF;
+IdModule  = Passive:0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 5701D3E0
+Path = /57018817
+Reference = C4;
+ValeurCmp = 0.1uF;
+IdModule  = Passive:0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 5701D3D4
+Path = /57013A8E
+Reference = C3;
+ValeurCmp = 100pF;
+IdModule  = Passive:0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 5701D3C8
+Path = /5701265C
+Reference = C2;
+ValeurCmp = 1uF;
+IdModule  = Passive:0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 5701D3BC
+Path = /57013A0F
+Reference = C1;
+ValeurCmp = 1uF;
+IdModule  = Passive:0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 5701D492
+Path = /57014FBD
+Reference = S10;
+ValeurCmp = SOLDER_LINK_NO;
+IdModule  = Passive:SOLDER_LINK_50MIL_50MIL_NO;
+EndCmp
+
+BeginCmp
+TimeStamp = 5701D48C
+Path = /5700BC7E
+Reference = S9;
+ValeurCmp = SOLDER_LINK_NO;
+IdModule  = Passive:SOLDER_LINK_50MIL_50MIL_NO;
+EndCmp
+
+BeginCmp
+TimeStamp = 5701D486
+Path = /5700BC17
+Reference = S8;
+ValeurCmp = SOLDER_LINK_NO;
+IdModule  = Passive:SOLDER_LINK_50MIL_50MIL_NO;
+EndCmp
+
+BeginCmp
+TimeStamp = 5701D480
+Path = /5700B772
+Reference = S7;
+ValeurCmp = SOLDER_LINK_NO;
+IdModule  = Passive:SOLDER_LINK_50MIL_50MIL_NO;
+EndCmp
+
+BeginCmp
+TimeStamp = 5701D47A
+Path = /5700BBB4
+Reference = S6;
+ValeurCmp = SOLDER_LINK_NO;
+IdModule  = Passive:SOLDER_LINK_50MIL_50MIL_NO;
+EndCmp
+
+BeginCmp
+TimeStamp = 57035DE9
+Path = /57033BBB
+Reference = S5;
+ValeurCmp = SOLDER_LINK_NC;
+IdModule  = Passive:SOLDER_LINK_50MIL_50MIL_NC;
+EndCmp
+
+BeginCmp
+TimeStamp = 5701D46E
+Path = /5700BE28
+Reference = S4;
+ValeurCmp = SOLDER_LINK_NC;
+IdModule  = Passive:SOLDER_LINK_50MIL_50MIL_NC;
+EndCmp
+
+BeginCmp
+TimeStamp = 5701D467
+Path = /5700BDA9
+Reference = S3;
+ValeurCmp = SOLDER_LINK_NC;
+IdModule  = Passive:SOLDER_LINK_50MIL_50MIL_NC;
+EndCmp
+
+BeginCmp
+TimeStamp = 5701D460
+Path = /5700BD3A
+Reference = S2;
+ValeurCmp = SOLDER_LINK_NC;
+IdModule  = Passive:SOLDER_LINK_50MIL_50MIL_NC;
+EndCmp
+
+BeginCmp
+TimeStamp = 5701D459
+Path = /5700B6FD
+Reference = S1;
+ValeurCmp = SOLDER_LINK_NC;
+IdModule  = Passive:SOLDER_LINK_50MIL_50MIL_NC;
+EndCmp
+
+EndListe
