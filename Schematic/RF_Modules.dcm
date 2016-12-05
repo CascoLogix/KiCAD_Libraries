@@ -6,6 +6,10 @@ K BLE, Bluetooth. Dorji
 F Z:/Engineering/Datasheets/Modules/Dorji/DBM01.pdf
 $ENDCMP
 #
+$CMP EMW3165
+F Z:/Engineering/Datasheets/Modules/EMW3165/EMW3165_Datasheet.pdf
+$ENDCMP
+#
 $CMP ESP-07
 D ESP8622 ESP-12 module, 16 pins, 2mm, PCB antenna
 K MODULE ESP8266 ESP-8266
