@@ -48,7 +48,6 @@ LIBS:Test_Point
 LIBS:TI_Luminary
 LIBS:TI_MSP430
 LIBS:Transducer
-LIBS:MikroBUS_Board_Template-cache
 EELAYER 25 0
 EELAYER END
 $Descr USLetter 11000 8500
@@ -149,9 +148,9 @@ Text Notes 9750 875  2    40   ~ 0
 PWM - PWM Output
 Text Notes 9750 975  2    40   ~ 0
 INT - Hardware Interrupt
-Text Notes 9750 1075 2    40   ~ 0
-RX - UART Receive
 Text Notes 9750 1175 2    40   ~ 0
+RX - UART Receive
+Text Notes 9750 1075 2    40   ~ 0
 TX - UART Transmit
 Text Notes 9750 1275 2    40   ~ 0
 SCL - I2C Clock
@@ -181,9 +180,9 @@ Text GLabel 10200 850  2    40   Input ~ 0
 PWM
 Text GLabel 10200 950  2    40   Input ~ 0
 INT
-Text GLabel 10200 1050 2    40   Input ~ 0
-RX
 Text GLabel 10200 1150 2    40   Input ~ 0
+RX
+Text GLabel 10200 1050 2    40   Input ~ 0
 TX
 Text GLabel 10200 1250 2    40   Input ~ 0
 SCL
@@ -512,7 +511,7 @@ C6 00 08 81 42 A1 70 71 71 69 8A 16 9A 9D 77 16 2E 2D 2D 3D 7B EE 5C 56 66 66 71
 23 05 AB 02 83 91 82 55 81 C1 48 C1 AA C0 60 A4 60 55 60 30 52 B0 2A 30 18 29 58 15 18 8C 14 AC 
 0A 0C 46 0A 56 05 06 23 05 AB 02 83 91 82 55 81 C1 48 C1 AA C0 60 A4 60 55 60 30 52 B0 2A 30 18 
 29 58 15 18 8C 14 AC 0A 0C 46 0A 56 05 06 23 05 AB 02 83 91 82 55 81 C1 48 C1 AA C0 60 A4 60 55 
-60 30 52 B0 2A 30 18 29 FF 0F E5 FF 6E A6 18 EE 8C 88 00 00 00 00 49 45 4E 44 AE 42 60 82 03 
+60 30 52 B0 2A 30 18 29 FF 0F E5 FF 6E A6 18 EE 8C 88 00 00 00 00 49 45 4E 44 AE 42 60 82 1F 
 EndData
 $EndBitmap
 $EndSCHEMATC
