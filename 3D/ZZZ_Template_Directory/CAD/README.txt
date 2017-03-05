@@ -1,0 +1,1 @@
+Place CAD source files here.  These would be design files from CAD programs such as FreeCAD, Solidworks, etc.

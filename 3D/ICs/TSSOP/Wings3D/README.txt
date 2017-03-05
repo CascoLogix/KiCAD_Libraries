@@ -1,0 +1,1 @@
+Place Wings3D files here (Note: these are *.wings file extensions).  

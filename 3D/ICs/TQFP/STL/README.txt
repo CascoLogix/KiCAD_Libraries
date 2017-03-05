@@ -1,0 +1,1 @@
+Place STL output files here.  These are files exported from the CAD design source file, or 3D Models in STL file format downloaded from online sources such as 3Dcontentcentral, or component vendor websites.

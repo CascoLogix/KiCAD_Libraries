@@ -1,0 +1,1 @@
+Place VRML-format output files here (Note: these are *.wrl file extensions).  These are usually files exported from Wings3D, or created from the KiCAD StepUp macro.
