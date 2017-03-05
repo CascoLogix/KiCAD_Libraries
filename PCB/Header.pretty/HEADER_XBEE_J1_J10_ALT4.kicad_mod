@@ -1,11 +1,11 @@
-(module HEADER_XBEE_J1_J10_ALT4 (layer F.Cu) (tedit 58BB5A60)
-  (fp_text reference J1A (at 2.5 -10) (layer F.SilkS)
+(module HEADER_XBEE_J1_J10_ALT4 (layer F.Cu) (tedit 58BB83D2)
+  (fp_text reference JA* (at 2.5 -10) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.1524)))
   )
   (fp_text value "XBEE FEMALE SOCKET" (at 11 13) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.1524)))
   )
-  (fp_text user "Remember, you are looking at this from the top of the board" (at 11 13) (layer Cmts.User) hide
+  (fp_text user "Remember, you are looking at this from the top of the board" (at 11 13) (layer Cmts.User)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user "XBee Socket" (at 11 -14) (layer F.SilkS)

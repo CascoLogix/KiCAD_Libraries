@@ -15,4 +15,18 @@ DRAW
 ENDDRAW
 ENDDEF
 #
+# Tuffduino_Logo
+#
+DEF Tuffduino_Logo G 0 40 Y Y 1 F N
+F0 "G" 0 50 40 H V C CNN
+F1 "Tuffduino_Logo" 0 -50 40 H V C CNN
+F2 "" 0 0 60 H I C CNN
+F3 "" 0 0 60 H I C CNN
+$FPLIST
+ Casco_Logix_Logo*
+$ENDFPLIST
+DRAW
+ENDDRAW
+ENDDEF
+#
 #End Library
