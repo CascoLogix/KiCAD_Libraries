@@ -1,5 +1,5 @@
-(module HEADER_XBEE_J11_J20_ALT4 (layer F.Cu) (tedit 58386D03)
-  (fp_text reference J* (at -2 -10) (layer F.SilkS)
+(module HEADER_XBEE_J11_J20_ALT4 (layer F.Cu) (tedit 58B79953)
+  (fp_text reference J1B (at -2 -10) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.1524)))
   )
   (fp_text value "XBEE FEMALE SOCKET" (at 0 13) (layer F.SilkS) hide
@@ -16,7 +16,7 @@
   (pad 13 thru_hole circle (at 0 6) (size 1.4 1.4) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 12 thru_hole circle (at 0 8) (size 1.4 1.4) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 11 thru_hole circle (at 0 10) (size 1.4 1.4) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
-  (model C:/Engineering/KiCAD_Libraries/3D/Headers/VRML/HEADER_F_2.00MM_1R10P_ST_AU_PTH.wrl
+  (model C:/Engineering/KiCAD_Libraries/3D/Headers/VRML/HEADER_F_2.00MM_1R10P_ST_AU_PTH_XBEE_J11_J20.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
