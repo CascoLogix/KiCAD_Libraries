@@ -26,7 +26,7 @@
   (pad 3 thru_hole circle (at 0 -4) (size 1.4 1.4) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 0 -6) (size 1.4 1.4) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at 0 -8) (size 1.4 1.4) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
-  (model C:/Engineering/KiCAD_Libraries/3D/Headers/VRML/HEADER_F_XBEE_J1_J10.wrl
+  (model C:/Engineering/KiCAD_Libraries/3D/Headers/VRML/HEADER_F_2.00MM_1R10P_ST_AU_PTH_XBEE_J1_J10.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

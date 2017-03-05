@@ -15,7 +15,7 @@
   (pad 1 smd rect (at -2.075 -1.075) (size 1.05 0.65) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 2.075 -1.075) (size 1.05 0.65) (layers F.Cu F.Paste F.Mask))
   (model C:/Engineering/KiCAD_Libraries/3D/Electromechanical/Pushbuttons/VRML/PTS810.wrl
-    (at (xyz 0 0 0.005))
+    (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
