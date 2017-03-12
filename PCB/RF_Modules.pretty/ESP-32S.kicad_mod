@@ -1,4 +1,5 @@
 (module ESP-32S (layer F.Cu) (tedit 5838BE2E)
+  (attr smd)
   (fp_text reference REF** (at -7 13.75) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

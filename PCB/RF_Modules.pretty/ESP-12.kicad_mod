@@ -1,6 +1,7 @@
 (module ESP-12 locked (layer F.Cu) (tedit 55BE5912)
   (descr "Module, ESP-8266, ESP-12, 16 pad, SMD")
   (tags "Module ESP-8266 ESP8266")
+  (attr smd)
   (fp_text reference U1 (at 1.5 16.6) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
