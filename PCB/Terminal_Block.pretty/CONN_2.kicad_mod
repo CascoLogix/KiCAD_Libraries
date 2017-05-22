@@ -1,4 +1,4 @@
-(module CONN_2 (layer F.Cu) (tedit 58C37690)
+(module CONN_2 (layer F.Cu) (tedit 590F10D9)
   (attr virtual)
   (fp_text reference REF* (at -6.604 2.54) (layer F.SilkS)
     (effects (font (size 0.762 0.762) (thickness 0.127)))
@@ -11,7 +11,7 @@
   (fp_line (start 5.588 -4.191) (end 5.588 3.429) (layer F.SilkS) (width 0.127))
   (fp_line (start 5.588 3.429) (end -5.588 3.429) (layer F.SilkS) (width 0.127))
   (fp_line (start -5.588 3.429) (end -5.588 -4.191) (layer F.SilkS) (width 0.127))
-  (pad 1 thru_hole oval (at -2.54 0) (size 1.905 3.81) (drill 1.2954) (layers *.Cu *.Mask))
+  (pad 1 thru_hole rect (at -2.54 0) (size 1.905 3.81) (drill 1.2954) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 2.54 0) (size 1.905 3.81) (drill 1.2954) (layers *.Cu *.Mask))
   (model C:/Engineering/KiCAD_Libraries/3D/Terminal_Blocks/VRML/TB_200MIL_1R2P_HORZ_PTH.wrl
     (at (xyz 0 0 0))

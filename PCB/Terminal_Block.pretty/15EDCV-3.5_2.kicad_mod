@@ -1,4 +1,4 @@
-(module 15EDCV-3.5_2 (layer F.Cu) (tedit 57D887A5)
+(module 15EDCV-3.5_2 (layer F.Cu) (tedit 590F1091)
   (fp_text reference REF** (at 0 -5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -15,7 +15,7 @@
   (fp_line (start -4.1 2.8) (end 4.1 2.8) (layer F.SilkS) (width 0.13))
   (fp_line (start 4.1 2.8) (end 4.1 -4.2) (layer F.SilkS) (width 0.13))
   (fp_line (start -4.1 -4.2) (end 4.1 -4.2) (layer F.SilkS) (width 0.13))
-  (pad 1 thru_hole circle (at -1.75 0) (size 2.475 2.475) (drill 1.414) (layers *.Cu *.Mask))
+  (pad 1 thru_hole rect (at -1.75 0) (size 2.475 2.475) (drill 1.414) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 1.75 0) (size 2.475 2.475) (drill 1.414) (layers *.Cu *.Mask))
   (model C:/Engineering/KiCAD_Libraries/3D/Terminal_Blocks/VRML/3.5mm_2-pin_TB_assembled.wrl
     (at (xyz 0 0 0))
