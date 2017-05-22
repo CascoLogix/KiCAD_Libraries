@@ -173,6 +173,11 @@ K REGULATOR, LDO, Enable
 F http://www.diodes.com/_files/datasheets/AP2114.pdf
 $ENDCMP
 #
+$CMP AP2191AW-7
+D SINGLE CHANNEL POWER DISTRIBUTION LOAD SWITCH
+F Z:/Engineering/Datasheets/Integrated_Circuits/Diodes_Inc_AP22802.pdf
+$ENDCMP
+#
 $CMP AP22802
 D SINGLE CHANNEL POWER DISTRIBUTION LOAD SWITCH
 F Z:/Engineering/Datasheets/Integrated_Circuits/Diodes_Inc_AP22802.pdf
