@@ -230,6 +230,11 @@ K Step-Down Voltage Regulator
 F Z:/Engineering/Datasheets/Integrated_Circuits/Regulators/TI_LM2596.pdf
 $ENDCMP
 #
+$CMP LTC4412
+D Low Loss PowerPath Controller
+F Z:/Engineering/Datasheets/Integrated_Circuits/PMIC_Supervisor/LT_LTC4412.pdf
+$ENDCMP
+#
 $CMP LTC4413
 D Dual 2.6A, 2.5V to 5.5V Fast Ideal Diodes
 K Ideal Diode
