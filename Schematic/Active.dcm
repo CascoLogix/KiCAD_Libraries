@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 74AHC1G32
+D 2-input OR gate
+K Logic, 74
+F https://assets.nexperia.com/documents/data-sheet/74AHC_AHCT1G32.pdf
+$ENDCMP
+#
 $CMP AAT3221
 D LDO Regulator
 F C:/Engineering/Datasheets/Integrated_Circuits/Regulators/Skyworks_AAT3221_AAT3222_202251B.pdf
@@ -273,6 +279,11 @@ $CMP MP1584
 D 3A, 1.5MHz, 4.5V-28V Input Range Step-Down Converter
 K Buck, DC-DC Converter, Step Down
 F Z:/Engineering/Datasheets/Power_Supplies/DC-DC_Converters/MPS_MP1584.pdf
+$ENDCMP
+#
+$CMP MUN5214DW1T1G
+D Dual NPN Bias Resistor Transistors
+F http://www.onsemi.com/pub/Collateral/DTC114YD-D.PDF
 $ENDCMP
 #
 $CMP PRTR5V0U2X

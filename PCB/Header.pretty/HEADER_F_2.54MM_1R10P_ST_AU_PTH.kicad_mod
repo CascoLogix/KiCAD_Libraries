@@ -1,10 +1,10 @@
-(module HEADER_F_2.54MM_1R10P_ST_AU_PTH (layer F.Cu) (tedit 57DB681B)
+(module HEADER_F_2.54MM_1R10P_ST_AU_PTH locked (layer F.Cu) (tedit 59616EEF)
   (tags Header)
-  (fp_text reference HEADER_F_2.54MM_1R10P_ST_AU_PTH (at 0 2.286) (layer F.SilkS)
-    (effects (font (size 1.016 1.016) (thickness 0.127)))
+  (fp_text reference J7 (at 13.716 0 90) (layer F.SilkS)
+    (effects (font (size 0.762 0.762) (thickness 0.127)))
   )
-  (fp_text value Val** (at 0 -2.159) (layer F.SilkS) hide
-    (effects (font (size 1.016 1.016) (thickness 0.127)))
+  (fp_text value *VAL (at 0 -2.159) (layer F.SilkS)
+    (effects (font (size 0.762 0.762) (thickness 0.127)))
   )
   (fp_line (start 7.62 1.27) (end 12.7 1.27) (layer F.SilkS) (width 0.2032))
   (fp_line (start 7.62 -1.27) (end 12.7 -1.27) (layer F.SilkS) (width 0.2032))
@@ -33,7 +33,7 @@
   (pad 5 thru_hole circle (at -1.27 0) (size 1.778 1.778) (drill 1.016) (layers *.Cu *.Mask))
   (pad 9 thru_hole circle (at 8.89 0) (size 1.778 1.778) (drill 1.016) (layers *.Cu *.Mask))
   (pad 10 thru_hole circle (at 11.43 0) (size 1.778 1.778) (drill 1.016) (layers *.Cu *.Mask))
-  (model C:/Engineering/KiCAD_Libraries/3D/Headers/VRML/HEADER_F_2.54MM_1R10P_ST_AU_PTH.wrl
+  (model C:/Engineering/KiCAD_Libraries/3D/Headers/VRML/HEADER_M_2.54MM_1R6P_ST_AU_PTH.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
