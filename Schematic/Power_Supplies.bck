@@ -32,4 +32,14 @@ D AC DC power module
 K AC DC Converter, Power Supply
 $ENDCMP
 #
+$CMP Recom_DC_DC_Conv
+D Recom DC/DC Converter
+K Recom DC/DC Converter
+$ENDCMP
+#
+$CMP SHB-5W
+D SHANBO SHB-5W 5W AC DC power module
+K AC DC Converter, Power Supply
+$ENDCMP
+#
 #End Doc Library
