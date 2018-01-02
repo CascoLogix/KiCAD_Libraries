@@ -11,9 +11,9 @@
   (fp_line (start 3.81 -1.27) (end 3.81 1.27) (layer F.SilkS) (width 0.127))
   (fp_line (start -1.27 1.27) (end -1.27 -1.27) (layer F.SilkS) (width 0.127))
   (fp_line (start -3.81 1.27) (end -3.81 -1.27) (layer F.SilkS) (width 0.127))
-  (pad 3 thru_hole circle (at 2.54 0) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
-  (pad 2 thru_hole circle (at 0 0) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
-  (pad 1 thru_hole rect (at -2.54 0) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
+  (pad 3 thru_hole circle (at 2.54 0) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at 0 0) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask))
+  (pad 1 thru_hole rect (at -2.54 0) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask))
   (model C:/Engineering/KiCAD_Libraries/3D/Headers/VRML/HEADER_F_2.54MM_1R3P_ST_AU_PTH.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
