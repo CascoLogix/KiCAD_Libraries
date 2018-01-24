@@ -206,6 +206,11 @@ D Dual Switching Diode, Common Cathode
 K Diode, Dual, Pair, Common Cathode, Array
 $ENDCMP
 #
+$CMP DIODE_BRIDGE
+D Generic Diode Bridge
+K Diode Bridge Rectifier Full Wave
+$ENDCMP
+#
 $CMP DIODE_SCHOTTKY
 D Diode schottky
 K DEV DIODE
@@ -224,6 +229,12 @@ $ENDCMP
 $CMP FT230XQ
 D USB to serial converter
 K UART USB Serial
+$ENDCMP
+#
+$CMP H11LX
+D 6 PIN DIP SCHMITT TRIGGER PHOTOCOUPLER
+K Schmitt Trigger Logic Output Optocoupler
+F http://www.everlight.com/file/ProductFile/H11L1.pdf
 $ENDCMP
 #
 $CMP LED_Small

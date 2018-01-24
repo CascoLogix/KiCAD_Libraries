@@ -226,6 +226,12 @@ D USB to serial converter
 K UART USB Serial
 $ENDCMP
 #
+$CMP H11LX
+D 6 PIN DIP SCHMITT TRIGGER PHOTOCOUPLER
+K Schmitt Trigger Logic Output Optocoupler
+F http://www.everlight.com/file/ProductFile/H11L1.pdf
+$ENDCMP
+#
 $CMP LED_Small
 K LED
 $ENDCMP
@@ -294,6 +300,11 @@ $CMP RT9819
 D Micro-Power Voltage Detector
 K Reset Circuit, PMIC Supervisor
 F http://www.richtek.com/assets/product_file/RT9819/DS9819-08.pdf
+$ENDCMP
+#
+$CMP SN74AUP1G98
+D LOW-POWER CONFIGURABLE MULTIPLE-FUNCTION GATE
+F http://www.ti.com/lit/ds/symlink/sn74aup1g98.pdf
 $ENDCMP
 #
 $CMP TPS63000
