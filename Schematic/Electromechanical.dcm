@@ -18,6 +18,11 @@ K Pushbutton, Button, Switch, Momentary
 F C:/Engineering/Datasheets/Electromechanical/Switches/C&K_PTS810.pdf
 $ENDCMP
 #
+$CMP RELAY_DPDT_IM03G
+D LATCHING RELAY TELECOM DPDT 5A 4.5V
+K LATCHING RELAY TELECOM DPDT 5A 4.5V
+$ENDCMP
+#
 $CMP RELAY_SPDT_T90N5D1
 D Potter & Brumfield T90-Series
 K Relay T90 SPDT Form C form
