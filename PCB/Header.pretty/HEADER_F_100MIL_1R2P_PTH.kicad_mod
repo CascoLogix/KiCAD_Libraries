@@ -11,8 +11,8 @@
   (fp_line (start -2.54 1.27) (end -2.54 -1.27) (layer F.SilkS) (width 0.254))
   (fp_line (start 2.54 -1.27) (end 2.54 1.27) (layer F.SilkS) (width 0.254))
   (fp_line (start 0 -1.27) (end 0 1.27) (layer F.SilkS) (width 0.254))
-  (pad 1 thru_hole rect (at -1.27 0) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
-  (pad 2 thru_hole circle (at 1.27 0) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
+  (pad 1 thru_hole rect (at -1.27 0) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at 1.27 0) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask))
   (model C:\KiCAD_Libraries\3D\Headers\HEADER_M_100MIL_1R2P_0.230H_0.120T_GOLD_PTH.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
