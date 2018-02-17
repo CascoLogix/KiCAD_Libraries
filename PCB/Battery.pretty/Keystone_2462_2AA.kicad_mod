@@ -1,4 +1,4 @@
-(module Keystone_2462_2AA locked (layer F.Cu) (tedit 5A4BB371)
+(module Keystone_2462_2AA locked (layer F.Cu) (tedit 5A7FD544)
   (fp_text reference B2 (at 31.75 0 90) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.1524)))
   )
@@ -14,8 +14,8 @@
   (fp_line (start -30.48 16.51) (end 30.48 16.51) (layer F.SilkS) (width 0.127))
   (fp_line (start 30.48 16.51) (end 30.48 -16.51) (layer F.SilkS) (width 0.127))
   (fp_line (start 30.48 -16.51) (end -30.48 -16.51) (layer F.SilkS) (width 0.127))
-  (pad 1 thru_hole circle (at 27.8892 -7.493) (size 2.2225 2.2225) (drill 1.27) (layers *.Cu *.Mask))
-  (pad 2 thru_hole circle (at 27.8892 7.493) (size 2.2225 2.2225) (drill 1.27) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at 27.8892 -7.493) (size 2.2225 2.2225) (drill 1.27) (layers *.Cu *.Mask))
+  (pad 1 thru_hole circle (at 27.8892 7.493) (size 2.2225 2.2225) (drill 1.27) (layers *.Cu *.Mask))
   (model C:/Engineering/KiCAD_Libraries/3D/Battery_Holders/VRML/KEYSTONE_2462.wrl
     (at (xyz 0.03 0 0))
     (scale (xyz 1 1 1))
