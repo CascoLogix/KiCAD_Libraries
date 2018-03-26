@@ -1,4 +1,4 @@
-(module HEADER_M_2.54MM_2R6P_ST_AU_PTH (layer F.Cu) (tedit 57DB6A24)
+(module HEADER_M_2.54MM_2R6P_ST_AU_PTH (layer F.Cu) (tedit 5AB8370E)
   (tags Header)
   (fp_text reference **REF (at 0 3.81) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.127)))
@@ -20,8 +20,8 @@
   (fp_line (start -3.81 0) (end -3.81 -2.54) (layer F.SilkS) (width 0.2032))
   (pad 1 thru_hole rect (at -2.54 1.27) (size 1.778 1.778) (drill 1.016) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at -2.54 -1.27) (size 1.778 1.778) (drill 1.016) (layers *.Cu *.Mask))
-  (pad 3 thru_hole circle (at 0 -1.27) (size 1.778 1.778) (drill 1.016) (layers *.Cu *.Mask))
-  (pad 4 thru_hole circle (at 0 1.27) (size 1.778 1.778) (drill 1.016) (layers *.Cu *.Mask))
+  (pad 4 thru_hole circle (at 0 -1.27) (size 1.778 1.778) (drill 1.016) (layers *.Cu *.Mask))
+  (pad 3 thru_hole circle (at 0 1.27) (size 1.778 1.778) (drill 1.016) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 2.54 1.27) (size 1.778 1.778) (drill 1.016) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at 2.54 -1.27) (size 1.778 1.778) (drill 1.016) (layers *.Cu *.Mask))
   (model C:/Engineering/KiCAD_Libraries/3D/Headers/VRML/HEADER_M_2.54MM_2R6P_0.230H_0.120T_ST_AU_PTH.wrl
