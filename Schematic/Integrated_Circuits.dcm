@@ -1,5 +1,29 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 74AUP1G32
+D IC GATE OR 1CH 2-INPUT
+K LOGIC IC GATE OR 1CH 2-INPUT
+F https://assets.nexperia.com/documents/data-sheet/74AUP1G32.pdf
+$ENDCMP
+#
+$CMP 74AUP2G00
+D IC GATE NAND 2CH 2-INPUT
+K LOGIC IC GATE NAND 2CH 2-INPUT
+F https://assets.nexperia.com/documents/data-sheet/74AUP2G00.pdf
+$ENDCMP
+#
+$CMP 74AUP2G04
+D IC INVERTER GATE DUAL LP
+K LOGIC IC INVERTER GATE DUAL LP
+F https://www.diodes.com/assets/Datasheets/74AUP2G04.pdf
+$ENDCMP
+#
+$CMP 74AUP2G38DC
+D IC GATE NAND 2CH 2-INPUT
+K LOGIC IC GATE NAND 2CH 2-INPUT
+F https://assets.nexperia.com/documents/data-sheet/74AUP2G38.pdf
+$ENDCMP
+#
 $CMP 74LS125
 D Quad buffer 3 State out
 K TTL buffer 3State
