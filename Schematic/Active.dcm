@@ -237,6 +237,18 @@ K Schmitt Trigger Logic Output Optocoupler
 F http://www.everlight.com/file/ProductFile/H11L1.pdf
 $ENDCMP
 #
+$CMP L1F3-U380200008000
+D LUXEON UV U Line Ultraviolet LED
+K Ultraviolet (UV) LED
+F https://www.lumileds.com/uploads/648/DS178-pdf
+$ENDCMP
+#
+$CMP L1IZ-0850
+D LUXEON IR Compact Line Infrared LED
+K Infrared LED
+F https://www.lumileds.com/uploads/682/DS190-pdf
+$ENDCMP
+#
 $CMP LED_Small
 K LED
 $ENDCMP

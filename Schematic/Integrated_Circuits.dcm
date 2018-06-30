@@ -35,6 +35,16 @@ K IO Expander
 F C:/Engineering/Datasheets/Integrated_Circuits/Serial_IO_Expanders/NXP_Semiconductors_PCF8574_PCF8574A.pdf
 $ENDCMP
 #
+$CMP AP7115-25SEG
+D 150mA LOW DROPOUT LINEAR REGULATOR WITH SHUTDOWN
+F https://www.diodes.com/assets/Datasheets/AP7115.pdf
+$ENDCMP
+#
+$CMP AP7315-25W5
+D 150mA HIGH PSRR LOW NOISE LDO WITH ENABLE
+F https://www.diodes.com/assets/Datasheets/AP7315.pdf
+$ENDCMP
+#
 $CMP AS1115
 D Serial-interfaced 6-digit LED controller with keyscan
 $ENDCMP
@@ -91,6 +101,16 @@ $ENDCMP
 $CMP FT230XQ
 D USB to serial converter
 K UART USB Serial
+$ENDCMP
+#
+$CMP LD59015C25R
+D 150 mA low noise high PSRR linear voltage regulator
+F https://www.st.com/content/ccc/resource/technical/document/datasheet/group3/75/ef/58/d3/fc/7b/4e/56/CD00273252/files/CD00273252.pdf/jcr:content/translations/en.CD00273252.pdf
+$ENDCMP
+#
+$CMP LDK120C25R
+D 200 mA low quiescent current very low noise LDO
+F https://www.st.com/content/ccc/resource/technical/document/datasheet/9d/8f/91/5b/5d/0b/49/3d/DM00070790.pdf/files/DM00070790.pdf/jcr:content/translations/en.DM00070790.pdf
 $ENDCMP
 #
 $CMP M24M01-SO8
@@ -231,10 +251,20 @@ K Boost, Switching Regulator, SEPIC
 F Z:/Engineering/Datasheets/Integrated_Circuits/Switching_Regulators/Micrel_MIC2172.pdf
 $ENDCMP
 #
+$CMP PAM2306AYPKE
+D DUAL HIGH-EFFICIENCY PWM STEP-DOWN DC-DC CONVERTER
+F https://www.diodes.com/assets/Datasheets/PAM2306.pdf
+$ENDCMP
+#
 $CMP PCF8574T
 D Remote 8-bit I/O expander for I2C
 K IO Expander
 F C:/Engineering/Datasheets/Integrated_Circuits/Serial_IO_Expanders/NXP_Semiconductors_PCF8574_PCF8574A.pdf
+$ENDCMP
+#
+$CMP RT8020AGQW
+D Dual High-Efficiency PWM Step-Down DC/DC Converter
+F https://www.richtek.com/assets/product_file/RT8020/DS8020-09.pdf
 $ENDCMP
 #
 $CMP STLED316S
@@ -249,6 +279,11 @@ $CMP Si4463
 D HIGH-PERFORMANCE, LOW-CURRENT TRANSCEIVER
 K Si4463, 915Mhz, ISM
 F Z:/Engineering/Datasheets/Integrated_Circuits/RF/Si4463/Si4463-61-60-C.pdf
+$ENDCMP
+#
+$CMP TLV70025DCKR
+D TLV700 200-mA, Low-IQ, Low-Dropout Regulator for Portable Devices
+F http://www.ti.com/lit/ds/slvsa00e/slvsa00e.pdf
 $ENDCMP
 #
 #End Doc Library
