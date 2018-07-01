@@ -15,6 +15,16 @@ D USB Connector
 K USB usb CONNECTOR connector
 $ENDCMP
 #
+$CMP FFC_0.5MM_22P
+D Flat Flex Cable Connector, 22-pin
+K FFC
+$ENDCMP
+#
+$CMP FFC_0.5MM_54P
+D Flat Flex Cable Connector, 54-pin
+K FFC
+$ENDCMP
+#
 $CMP MDM_9W_RA
 D MDM 9-Pin Connector; Right-Angle
 K MDM
