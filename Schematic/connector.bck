@@ -20,6 +20,11 @@ D Flat Flex Cable Connector, 22-pin
 K FFC
 $ENDCMP
 #
+$CMP FFC_0.5MM_50P
+D Flat Flex Cable Connector, 54-pin
+K FFC
+$ENDCMP
+#
 $CMP FFC_0.5MM_54P
 D Flat Flex Cable Connector, 54-pin
 K FFC
