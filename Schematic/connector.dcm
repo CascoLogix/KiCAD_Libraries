@@ -35,6 +35,11 @@ D Flat Flex Cable Connector, 54-pin
 K FFC
 $ENDCMP
 #
+$CMP FFC_0.5MM_8P
+D Flat Flex Cable Connector, 8-pin
+K FFC
+$ENDCMP
+#
 $CMP MDM_9W_RA
 D MDM 9-Pin Connector; Right-Angle
 K MDM
