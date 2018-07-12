@@ -17,6 +17,11 @@ K Reset Circuit, PMIC Supervisor
 F http://www.mouser.com/ds/2/472/202243A-258395.pdf
 $ENDCMP
 #
+$CMP AO4752
+D N-Channel Logic Level Enhancement Mode Field Effect Transistor with Schottky Body Diode
+K FET, N-Channel, Schottky Body Diode
+$ENDCMP
+#
 $CMP AOZ1284
 D 3.0V to 36V Input Range EZBuck 4A Simple Buck Regulator
 K DC-DC Converter, Step Down, Buck
