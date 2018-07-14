@@ -42,4 +42,9 @@
   (pad 15 smd rect (at -3.499998 0.0441 90) (size 1.016 0.3048) (layers F.Cu F.Paste F.Mask))
   (pad 16 smd rect (at -5.7785 -1.8609) (size 1.651 1.2954) (layers F.Cu F.Paste F.Mask))
   (pad 17 smd rect (at 5.7785 -1.8609) (size 1.651 1.2954) (layers F.Cu F.Paste F.Mask))
+  (model C:/Engineering/KiCAD_Libraries/3D/Connectors/FFC/VRML/ISFV15R_2STLF.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
