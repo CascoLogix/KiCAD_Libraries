@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 7499210121A
+D CONN MAGJACK 1PORT 100 BASE-T
+K MAGJACK
+F http://katalog.we-online.de/pbs/datasheet/7499210121A.pdf
+$ENDCMP
+#
 $CMP CONNECTOR_USB
 D USB Connector
 K USB Connector
