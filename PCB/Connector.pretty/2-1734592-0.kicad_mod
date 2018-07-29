@@ -45,7 +45,7 @@
   (pad 18 smd rect (at 3.75 0) (size 0.3048 1.0922) (layers F.Cu F.Paste F.Mask))
   (pad 19 smd rect (at 4.249999 0) (size 0.3048 1.0922) (layers F.Cu F.Paste F.Mask))
   (pad 20 smd rect (at 4.750001 0) (size 0.3048 1.0922) (layers F.Cu F.Paste F.Mask))
-  (model C:/Engineering/KiCAD_Libraries/3D/Connectors/FFC/VRML/2-1734592-0.wrl
+  (model C:/Engineering/KiCAD_Libraries/3D/Connectors/FFC/VRML/C-2-1734592-0.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
