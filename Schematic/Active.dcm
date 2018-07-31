@@ -231,6 +231,12 @@ D Diode zener
 K DEV DIODE
 $ENDCMP
 #
+$CMP ESDA6V1-5SC6
+D TRANSIL ARRAY FOR ESD PROTECTION
+K ESD
+F https://www.st.com/content/ccc/resource/technical/document/datasheet/group2/13/b7/cb/ef/22/fb/46/82/CD00005102/files/CD00005102.pdf/jcr:content/translations/en.CD00005102.pdf
+$ENDCMP
+#
 $CMP FT230XQ
 D USB to serial converter
 K UART USB Serial
