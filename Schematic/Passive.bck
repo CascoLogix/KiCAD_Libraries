@@ -27,9 +27,27 @@ D PCB Trace Antenna
 K Antenna
 $ENDCMP
 #
+$CMP Crystal_ECX-32
+D Four pin crystal
+K Quartz, Resonator, Ceramic, Filter
+F http://www.ecsxtal.com/store/pdf/ecx-32.pdf
+$ENDCMP
+#
+$CMP Crystal_FA-238
+D Four pin crystal
+K Quartz, Resonator, Ceramic, Filter
+F https://support.epson.biz/td/api/doc_check.php?dl=brief_FA-238V_en.pdf
+$ENDCMP
+#
 $CMP Crystal_Small_4_Pin
 D Two pin crystal
 K Quartz, Resonator, Ceramic, Filter
+$ENDCMP
+#
+$CMP DG6050C
+D Ferrite Inductor
+K Low Profile, Magnetic Shield, DC-DC Covnerter
+F http://www.toko.co.jp/products-murata/pdf/inductors/m_dg6050c.pdf
 $ENDCMP
 #
 $CMP PTC
