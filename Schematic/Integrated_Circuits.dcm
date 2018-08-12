@@ -35,6 +35,12 @@ K IO Expander
 F C:/Engineering/Datasheets/Integrated_Circuits/Serial_IO_Expanders/NXP_Semiconductors_PCF8574_PCF8574A.pdf
 $ENDCMP
 #
+$CMP 93LC66A
+D IC EEPROM 4K SPI 2MHZ
+K IC EEPROM SPI
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21795E.pdf
+$ENDCMP
+#
 $CMP AP7115-25SEG
 D 150mA LOW DROPOUT LINEAR REGULATOR WITH SHUTDOWN
 F https://www.diodes.com/assets/Datasheets/AP7115.pdf
