@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 (module VSMY98145DS (layer F.Cu) (tedit 5B78C3A8)
   (tags VSMY98145DS)
   (attr smd)
@@ -15,11 +16,24 @@
     (effects (font (size 1.016 1.016) (thickness 0.127)))
   )
   (fp_text user - (at 2.7 -1.5) (layer F.SilkS)
+=======
+(module VSMY98145DS (layer F.Cu) (tedit 5B79CC3D)
+  (tags VSMY98145DS)
+  (attr smd)
+  (fp_text reference D3 (at 0 -3) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text user + (at -2.8 -1.5) (layer F.SilkS)
+  (fp_text value LED_ALT (at 0 2.5) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
+  (fp_text user - (at 2.5 -2) (layer F.SilkS)
+>>>>>>> ffd4f2d8e82c1571c7a1eb64725b4ccad9a56416
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text user + (at -2.5 -2) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+<<<<<<< HEAD
   (fp_line (start -1.8 -1.8) (end 1.8 -1.8) (layer F.SilkS) (width 0.127))
   (fp_line (start 1.8 -1.8) (end 1.8 1.8) (layer F.SilkS) (width 0.127))
   (fp_line (start 1.8 1.8) (end -1.8 1.8) (layer F.SilkS) (width 0.127))
@@ -27,6 +41,18 @@
   (pad 2 smd rect (at -1.15 0) (size 0.5 2.8) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 0 0) (size 1 2.8) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at 1.15 0) (size 0.5 2.8) (layers F.Cu F.Paste F.Mask))
+=======
+  (fp_line (start -1.8 -1.8) (end 1.8 -1.8) (layer F.SilkS) (width 0.15))
+  (fp_line (start 1.8 -1.8) (end 1.8 1.8) (layer F.SilkS) (width 0.15))
+  (fp_line (start 1.8 1.8) (end -1.8 1.8) (layer F.SilkS) (width 0.15))
+  (fp_line (start -1.8 1.8) (end -1.8 -1.8) (layer F.SilkS) (width 0.15))
+  (pad 2 smd rect (at -1.15 0) (size 0.5 2.8) (layers F.Cu F.Paste F.Mask)
+    (solder_mask_margin 0.0508) (solder_paste_margin -0.0508) (clearance 0.0508))
+  (pad 2 smd rect (at 0 0) (size 1 2.8) (layers F.Cu F.Paste F.Mask)
+    (solder_mask_margin 0.0508) (solder_paste_margin -0.0508) (clearance 0.0508))
+  (pad 1 smd rect (at 1.15 0) (size 0.5 2.8) (layers F.Cu F.Paste F.Mask)
+    (solder_mask_margin 0.0508) (solder_paste_margin -0.0508) (clearance 0.0508))
+>>>>>>> ffd4f2d8e82c1571c7a1eb64725b4ccad9a56416
   (model C:/Engineering/KiCAD_Libraries/3D/LEDs/VRML/QBHP684E.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
