@@ -61,6 +61,12 @@ $CMP HDMI
 D HDMI Connector
 $ENDCMP
 #
+$CMP HDMI_A
+D HDMI type A connector
+K hdmi conn
+F https://en.wikipedia.org/wiki/HDMI
+$ENDCMP
+#
 $CMP MDM_9W_RA
 D MDM 9-Pin Connector; Right-Angle
 K MDM
