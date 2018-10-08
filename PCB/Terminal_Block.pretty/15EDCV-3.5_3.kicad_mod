@@ -1,4 +1,4 @@
-(module 15EDCV-3.5_3 (layer F.Cu) (tedit 5BB91E6B)
+(module 15EDCV-3.5_3 (layer F.Cu) (tedit 5BBAB8BD)
   (fp_text reference REF** (at 0 -5) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.127)))
   )
@@ -24,4 +24,9 @@
   (pad 1 thru_hole rect (at -3.5 0) (size 2.475 2.475) (drill 1.414) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 0) (size 2.475 2.475) (drill 1.414) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 3.5 0) (size 2.475 2.475) (drill 1.414) (layers *.Cu *.Mask))
+  (model C:/Engineering/KiCAD_Libraries/3D/Terminal_Blocks/STEP/Phoenix_BCH_350_V_3_GN_cp.step
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
