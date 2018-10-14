@@ -1,4 +1,4 @@
-(module 47659-1000 (layer F.Cu) (tedit 5BC23191)
+(module 47659-1000 (layer F.Cu) (tedit 5BC34DD1)
   (descr 47659-1000)
   (tags Connector)
   (fp_text reference J** (at -7.1 -1.6) (layer F.SilkS)
@@ -43,9 +43,9 @@
   (pad 17 smd rect (at -3.79 -0.92) (size 0.3 1.8) (layers F.Cu F.Paste F.Mask))
   (pad 18 smd rect (at -4.29 -0.92) (size 0.3 1.8) (layers F.Cu F.Paste F.Mask))
   (pad 19 smd rect (at -4.79 -0.92) (size 0.3 1.8) (layers F.Cu F.Paste F.Mask))
-  (pad 20 thru_hole circle (at -7.25 1.4 90) (size 1.9 1.9) (drill 1.3) (layers *.Cu *.Mask))
-  (pad 21 thru_hole circle (at 0 4.7 90) (size 1.9 1.9) (drill 1.3) (layers *.Cu *.Mask))
-  (pad 22 thru_hole circle (at 7.25 1.4 90) (size 1.9 1.9) (drill 1.3) (layers *.Cu *.Mask))
+  (pad SH thru_hole circle (at -7.25 1.4 90) (size 1.9 1.9) (drill 1.3) (layers *.Cu *.Mask))
+  (pad SH thru_hole circle (at 0 4.7 90) (size 1.9 1.9) (drill 1.3) (layers *.Cu *.Mask))
+  (pad SH thru_hole circle (at 7.25 1.4 90) (size 1.9 1.9) (drill 1.3) (layers *.Cu *.Mask))
   (model C:/Engineering/KiCAD_Libraries/3D/Connectors/HDMI/STEP/476591002.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
