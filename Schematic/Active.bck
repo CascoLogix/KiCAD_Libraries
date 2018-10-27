@@ -293,6 +293,10 @@ K Reset Circuit, PMIC Supervisor
 F Z:/Engineering/Datasheets/Integrated_Circuits/PMIC_Supervisor/Maxim_MAX6326.pdf
 $ENDCMP
 #
+$CMP MIC803-29D3VM3
+D 3-Pin Microprocessor Supervisor Circuit
+$ENDCMP
+#
 $CMP MOSFET_N
 D N-channel FET
 K FET, N-channel, MOSFET
