@@ -1,4 +1,4 @@
-(module S-PQFP-G100 (layer F.Cu) (tedit 0)
+(module S-PQFP-G100 (layer F.Cu) (tedit 5BD47CBE)
   (descr "<p>Source: Texas Instrument TFP401</p>")
   (fp_text reference U1 (at -9 8 90) (layer F.SilkS)
     (effects (font (size 0.77216 0.77216) (thickness 0.092659)) (justify left bottom))
@@ -355,4 +355,9 @@
     (solder_mask_margin 0.0508))
   (pad 75 smd rect (at -6 -7.75) (size 0.27 1.5) (layers F.Cu F.Paste F.Mask)
     (solder_mask_margin 0.0508))
+  (model C:/Engineering/KiCAD_Libraries/3D/ICs/TQFP/STEP/TQFP-100.step
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

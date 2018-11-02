@@ -1,4 +1,4 @@
-(module Molex_54132-5033 (layer F.Cu) (tedit 5B493886)
+(module Molex_54132-5033 (layer F.Cu) (tedit 5BD4692D)
   (descr "Molex FFC/FPC connector, 50 bottom-side contacts, 0.5mm pitch, 2.0mm height, https://www.molex.com/pdm_docs/sd/541325033_sd.pdf")
   (tags "FFC FPC")
   (attr smd)
@@ -101,7 +101,7 @@
   (pad MP smd rect (at 13.95 1.05) (size 1.6 2.4) (layers F.Cu F.Paste F.Mask))
   (pad MP smd rect (at -14.35 1.45) (size 2.4 1.6) (layers F.Cu F.Paste F.Mask))
   (pad MP smd rect (at 14.35 1.45) (size 2.4 1.6) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Connector_FFC-FPC.3dshapes/Molex_54132-5033_1x50-1MP_P0.5mm_Horizontal.wrl
+  (model C:/Engineering/KiCAD_Libraries/3D/Connectors/FFC/STEP/Molex_54132-5033.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

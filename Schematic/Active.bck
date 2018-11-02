@@ -206,6 +206,12 @@ K Reset Circuit, PMIC Supervisor
 F http://www.diodes.com/_files/datasheets/APX809_APX810.pdf
 $ENDCMP
 #
+$CMP AZ1117-ADJ
+D 1A 20V Adjustable LDO Linear Regulator, SOT-89/SOT-223/TO-220/TO-252/TO-263
+K Adjustable Voltage Regulator 1A Positive LDO
+F https://www.diodes.com/assets/Datasheets/AZ1117.pdf
+$ENDCMP
+#
 $CMP BAV70L
 D Dual Switching Diode, Common Cathode
 K Diode, Dual, Pair, Common Cathode, Array
@@ -274,6 +280,12 @@ $CMP LM2596
 D LM2596 Simple Switcher Power Converter 150-kHz
 K Step-Down Voltage Regulator
 F Z:/Engineering/Datasheets/Integrated_Circuits/Regulators/TI_LM2596.pdf
+$ENDCMP
+#
+$CMP LM317_3PinPackage
+D 1A 35V Adjustable Linear Regulator, SOT-89/SOT-223/TO-220/TO-252/TO-263
+K Adjustable Voltage Regulator 1A Positive
+F http://www.ti.com/lit/ds/symlink/lm317.pdf
 $ENDCMP
 #
 $CMP LTC4412
