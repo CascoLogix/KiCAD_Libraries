@@ -1,5 +1,16 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ESE16J001
+D SWITCH DETECTOR SPST-NO 10MA 5V
+K Pushbutton, Button, Switch, Momentary, Detector
+F https://industrial.panasonic.com/cdbs/www-data/pdf/ATB0000/ATB0000C4.pdf
+$ENDCMP
+#
+$CMP ESE22MV21
+D SWITCH DETECTOR SPST-NO 10MA 5V
+F https://industrial.panasonic.com/cdbs/www-data/pdf/ATB0000/ATB0000C12.pdf
+$ENDCMP
+#
 $CMP FSMJ
 F C:/Engineering/Datasheets/Electromechanical/Switches/Tyco_FSM-Series.pdf
 $ENDCMP
