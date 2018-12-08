@@ -38,7 +38,7 @@ K FFC
 $ENDCMP
 #
 $CMP FFC_0.5MM_22P
-D Flat Flex Cable Connector, 22-pin
+D Flat Flex Cable Connector, 20-pin
 K FFC
 $ENDCMP
 #
@@ -57,8 +57,24 @@ D Flat Flex Cable Connector, 8-pin
 K FFC
 $ENDCMP
 #
+$CMP FFC_1.0MM_22P
+D Flat Flex Cable Connector, 20-pin
+K FFC
+$ENDCMP
+#
+$CMP FFC_1.0MM_22P_MALE
+D Flat Flex Cable Connector, 22-pin
+K FFC
+$ENDCMP
+#
 $CMP HDMI
 D HDMI Connector
+$ENDCMP
+#
+$CMP HDMI_A
+D HDMI type A connector
+K hdmi conn
+F https://en.wikipedia.org/wiki/HDMI
 $ENDCMP
 #
 $CMP MDM_9W_RA
