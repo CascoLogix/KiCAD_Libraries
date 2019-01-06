@@ -29,7 +29,7 @@ F http://l0l.org.uk/2014/12/esp8266-modules-hardware-guide-gotta-catch-em-all/
 $ENDCMP
 #
 $CMP ESP-32S
-D ESP-32S module, 22 pins, 2mm, PCB antenna
+D ESP-32S module, 38 pins, 1.27mm, PCB antenna
 K MODULE ESP32 ESP-32S
 $ENDCMP
 #
