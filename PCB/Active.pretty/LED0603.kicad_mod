@@ -1,10 +1,10 @@
-(module LED0603 (layer F.Cu) (tedit 5B49F6E3)
+(module LED0603 (layer F.Cu) (tedit 5C3ACD5B)
   (attr smd)
-  (fp_text reference Ref** (at 0 1.27) (layer F.SilkS)
-    (effects (font (size 1.016 1.016) (thickness 0.127)))
+  (fp_text reference Ref (at 0 1.3) (layer F.SilkS)
+    (effects (font (size 0.762 0.762) (thickness 0.127)))
   )
-  (fp_text value Val** (at 0 -1.27) (layer F.SilkS) hide
-    (effects (font (size 1.016 1.016) (thickness 0.127)))
+  (fp_text value Val (at 0 -1.27) (layer F.SilkS) hide
+    (effects (font (size 0.762 0.762) (thickness 0.127)))
   )
   (fp_text user %R (at 0 0) (layer F.Fab)
     (effects (font (size 0.381 0.381) (thickness 0.09525)))
@@ -22,10 +22,13 @@
   (fp_text user K (at -1.8 0) (layer F.SilkS)
     (effects (font (size 0.508 0.508) (thickness 0.0762)))
   )
+  (fp_text user K (at -1.3 0) (layer F.Fab)
+    (effects (font (size 0.7 0.7) (thickness 0.1)))
+  )
   (pad K smd rect (at -0.8 0) (size 0.8 0.8) (layers F.Cu F.Paste F.Mask))
   (pad A smd rect (at 0.8 0) (size 0.8 0.8) (layers F.Cu F.Paste F.Mask))
-  (model C:/Engineering/KiCAD_Libraries/3D/LEDs/VRML/LED_0603_RED.wrl
-    (at (xyz 0 0 0.001))
+  (model ${CASCO_LOGIX_KISYS3DMOD}/LEDs/STEP/LED_0603_GREEN.step
+    (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
