@@ -1,10 +1,10 @@
-(module 0-1734592-8 locked (layer F.Cu) (tedit 5C3B8DFF)
+(module 1734592-8 locked (layer F.Cu) (tedit 5C3B8EC7)
   (descr "TE Connectivity FPC Connector, 0.5mm PITCH, BOTTOM CONTACT, SMT TYPE")
   (tags "TE Connectivity 01x08 bottom contact smd 0.5 mm pitch fpc headers")
   (fp_text reference Ref (at -6 3 180) (layer F.SilkS)
     (effects (font (size 0.762 0.762) (thickness 0.127)))
   )
-  (fp_text value Val (at 0 4.445) (layer F.Fab) hide
+  (fp_text value 1734592-8 (at 0 4.445) (layer F.Fab) hide
     (effects (font (size 0.762 0.762) (thickness 0.127)))
   )
   (fp_circle (center -1.778 -0.635) (end -1.778 -0.254) (layer F.Fab) (width 0.127))
