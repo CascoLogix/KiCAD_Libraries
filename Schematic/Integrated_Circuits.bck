@@ -214,4 +214,9 @@ D TLV700 200-mA, Low-IQ, Low-Dropout Regulator for Portable Devices
 F http://www.ti.com/lit/ds/slvsa00e/slvsa00e.pdf
 $ENDCMP
 #
+$CMP TPS61165DBV
+D TPS61165 High-Brightness, White LED Driver in WSON and SOT-23 Packages
+F http://www.ti.com/lit/ds/symlink/tps61165.pdf
+$ENDCMP
+#
 #End Doc Library
