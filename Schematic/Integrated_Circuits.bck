@@ -219,4 +219,9 @@ D TPS61165 High-Brightness, White LED Driver in WSON and SOT-23 Packages
 F http://www.ti.com/lit/ds/symlink/tps61165.pdf
 $ENDCMP
 #
+$CMP TPS61165DRV
+D TPS61165 High-Brightness, White LED Driver in WSON and SOT-23 Packages
+F http://www.ti.com/lit/ds/symlink/tps61165.pdf
+$ENDCMP
+#
 #End Doc Library
