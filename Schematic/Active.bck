@@ -1,9 +1,69 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 74AHC1G04
+D Single NOT Gate, Low-Voltage CMOS
+K Single Gate NOT LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
 $CMP 74AHC1G32
 D 2-input OR gate
 K Logic, 74
 F https://assets.nexperia.com/documents/data-sheet/74AHC_AHCT1G32.pdf
+$ENDCMP
+#
+$CMP 74AHC1GU04
+D 74AHC1G04, Single NOT Gate, Low-Voltage CMOS
+K Single Gate NOT LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AHCT1G04
+D Single NOT Gate, Low-Voltage CMOS
+K Single Gate NOT LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AHCT1GU04
+D 74AHCT1G04, Single NOT Gate, Low-Voltage CMOS
+K Single Gate NOT LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AUC1G04
+D Single NOT Gate, Low-Voltage CMOS
+K Single Gate NOT LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AUC1GU04
+D 74AUC1G04, Single NOT Gate, Low-Voltage CMOS
+K Single Gate NOT LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AUP1G04
+D Single NOT Gate, Low-Voltage CMOS
+K Single Gate NOT LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AUP1GU04
+D 74AUP1G04, Single NOT Gate, Low-Voltage CMOS
+K Single Gate NOT LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74LVC1G04
+D Single NOT Gate, Low-Voltage CMOS
+K Single Gate NOT LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74LVC1GU04
+D 74LVC1G04, Single NOT Gate, Low-Voltage CMOS
+K Single Gate NOT LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
 $ENDCMP
 #
 $CMP AAT3221
