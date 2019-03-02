@@ -1,4 +1,4 @@
-(module D_SOD-123 (layer F.Cu) (tedit 5C7AB545)
+(module D_SOD-123_FFC (layer F.Cu) (tedit 5C7AF236)
   (descr SOD-123)
   (tags SOD-123)
   (attr smd)
@@ -29,8 +29,8 @@
   (fp_line (start -2.35 -1.15) (end -2.35 1.15) (layer F.CrtYd) (width 0.05))
   (fp_line (start -2.25 1) (end 1.65 1) (layer F.SilkS) (width 0.12))
   (fp_line (start -2.25 -1) (end 1.65 -1) (layer F.SilkS) (width 0.12))
-  (pad 1 smd rect (at -1.65 0) (size 0.9 1.2) (layers F.Cu F.Paste F.Mask))
-  (pad 2 smd rect (at 1.65 0) (size 0.9 1.2) (layers F.Cu F.Paste F.Mask))
+  (pad 1 smd rect (at -1.65 0) (size 1.1 1.4) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd rect (at 1.65 0) (size 1.1 1.4) (layers F.Cu F.Paste F.Mask))
   (model ${CASCO_LOGIX_KISYS3DMOD}/Discrete/Active/STEP/SOD-123.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
