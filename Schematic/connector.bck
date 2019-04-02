@@ -57,6 +57,11 @@ D Flat Flex Cable Connector, 8-pin
 K FFC
 $ENDCMP
 #
+$CMP FFC_1.0MM_15P_MALE
+D Flat Flex Cable Connector, 22-pin
+K FFC
+$ENDCMP
+#
 $CMP FFC_1.0MM_22P
 D Flat Flex Cable Connector, 20-pin
 K FFC
@@ -116,6 +121,12 @@ $ENDCMP
 $CMP SOLDER_LINK_NO
 D Solder Link
 K Solder Link
+$ENDCMP
+#
+$CMP USB_A
+D USB Type A connector
+K connector USB
+F  ~
 $ENDCMP
 #
 $CMP USB_OTG

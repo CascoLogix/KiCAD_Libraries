@@ -260,6 +260,12 @@ K CURRENT-LIMITED LOAD SWITCH
 F https://www.diodes.com/assets/Datasheets/AP2331.pdf
 $ENDCMP
 #
+$CMP AP7380-33WR-7
+D IC REG LINEAR 3.3V 150MA SOT25
+K Linear Voltage Regulator IC Positive Fixed 1 Output
+F https://www.diodes.com/assets/Datasheets/AP7380.pdf
+$ENDCMP
+#
 $CMP APX809
 D MICROPROCESSOR RESET CIRCUIT
 K Reset Circuit, PMIC Supervisor
@@ -270,6 +276,12 @@ $CMP AZ1117-ADJ
 D 1A 20V Adjustable LDO Linear Regulator, SOT-89/SOT-223/TO-220/TO-252/TO-263
 K Adjustable Voltage Regulator 1A Positive LDO
 F https://www.diodes.com/assets/Datasheets/AZ1117.pdf
+$ENDCMP
+#
+$CMP BAT40V-7
+D DIODE ARRAY SCHOTTKY 40V SOT563
+K Diode, Dual, Pair, Array
+F https://www.diodes.com/assets/Datasheets/ds30533.pdf
 $ENDCMP
 #
 $CMP BAV70L
@@ -359,6 +371,11 @@ K Ideal Diode
 F Z:/Engineering/Datasheets/Integrated_Circuits/Linear_Tech_LTC4413.pdf
 $ENDCMP
 #
+$CMP LTC6907
+D IC OSC SILICON PROG TSOT23-6
+F https://www.analog.com/media/en/technical-documentation/data-sheets/6907fa.pdf
+$ENDCMP
+#
 $CMP MAX6326
 D Ultra-low power microprocessor reset circuit
 K Reset Circuit, PMIC Supervisor
@@ -367,6 +384,12 @@ $ENDCMP
 #
 $CMP MIC803-29D3VM3
 D 3-Pin Microprocessor Supervisor Circuit
+$ENDCMP
+#
+$CMP MIC94090
+D IC LOAD SW HGH SIDE 1.2A SC70-6
+K Power Switch/Driver 1:1 P-Channel 1.2
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic9409x.pdf
 $ENDCMP
 #
 $CMP MOSFET_N
@@ -421,6 +444,12 @@ $CMP TPS2378DDAR
 D TPS2378 IEEE 802.3at PoE High-Power PD Interface
 K TPS2378 802.3at PoE High-Power PD Interface
 F http://www.ti.com/lit/ds/symlink/tps2378.pdf
+$ENDCMP
+#
+$CMP TPS61240
+D TPS61240
+K Boost, Converter, DC-DC, Switching, Regulator
+F http://www.ti.com/lit/ds/symlink/tps61240.pdf
 $ENDCMP
 #
 $CMP TPS63000
