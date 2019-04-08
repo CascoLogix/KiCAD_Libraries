@@ -440,6 +440,12 @@ D LOW-POWER CONFIGURABLE MULTIPLE-FUNCTION GATE
 F http://www.ti.com/lit/ds/symlink/sn74aup1g98.pdf
 $ENDCMP
 #
+$CMP TLV7031
+D Comparator General Purpose Push-Pull SC-70-5
+K single comparator
+F http://www.ti.com/lit/ds/symlink/tlv7041.pdf
+$ENDCMP
+#
 $CMP TPS2378DDAR
 D TPS2378 IEEE 802.3at PoE High-Power PD Interface
 K TPS2378 802.3at PoE High-Power PD Interface
