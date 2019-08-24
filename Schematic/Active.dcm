@@ -344,6 +344,12 @@ K Infrared LED
 F https://www.lumileds.com/uploads/682/DS190-pdf
 $ENDCMP
 #
+$CMP LED_LZ1
+D Light emitting diode, filled shape
+K LED diode
+F ~
+$ENDCMP
+#
 $CMP LED_Small
 K LED
 $ENDCMP
