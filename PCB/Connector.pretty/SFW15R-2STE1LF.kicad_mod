@@ -1,4 +1,4 @@
-(module SFW15R-2STE1LF (layer F.Cu) (tedit 5B786494)
+(module SFW15R-2STE1LF (layer F.Cu) (tedit 5D8D4BB4)
   (attr smd)
   (fp_text reference REF** (at 0 -6.731 180) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.127)))
@@ -41,7 +41,7 @@
   (pad 15 smd rect (at -7.000001 0 90) (size 2.0066 0.6096) (layers F.Cu F.Paste F.Mask))
   (pad 16 smd rect (at -8.001 -2.1082) (size 0.7112 4.191) (layers F.Cu F.Paste F.Mask))
   (pad 17 smd rect (at 8.001 -2.1082) (size 0.7112 4.191) (layers F.Cu F.Paste F.Mask))
-  (model C:/Engineering/KiCAD_Libraries/3D/Connectors/FFC/VRML/SFW_R-2ST_LF.wrl
+  (model ${CASCO_LOGIX_KISYS3DMOD}/Connectors/FFC/STEP/SFW_R-2ST_LF.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
