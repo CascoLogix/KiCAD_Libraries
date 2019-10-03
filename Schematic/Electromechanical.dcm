@@ -82,4 +82,28 @@ K Switch Tactile Push, Right Angle
 F https://www.e-switch.com/system/asset/product_line/data_sheet/163/TL3330.pdf
 $ENDCMP
 #
+$CMP Speaker_Crystal
+D Crystal speaker/transducer
+K crystal speaker ultrasonic transducer
+F ~
+$ENDCMP
+#
+$CMP Speaker_Crystal_PN
+D Crystal speaker/transducer
+K crystal speaker ultrasonic transducer
+F ~
+$ENDCMP
+#
+$CMP Speaker_Ultrasound
+D Ultrasonic transducer
+K crystal speaker ultrasonic transducer
+F ~
+$ENDCMP
+#
+$CMP Speaker_Ultrasound_PN
+D Ultrasonic transducer
+K crystal speaker ultrasonic transducer
+F ~
+$ENDCMP
+#
 #End Doc Library
