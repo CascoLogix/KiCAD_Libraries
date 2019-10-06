@@ -1502,6 +1502,34 @@ X P_GND_1 8 -200 -350 100 U 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
+# OPB733TR
+#
+DEF OPB733TR IC 0 30 Y Y 1 F N
+F0 "IC" 350 450 50 H V L CNN
+F1 "OPB733TR" 350 350 50 H V L CNN
+F2 "OPB733TR" 350 250 50 H I L CNN
+F3 "http://www.ttelectronics.com/sites/default/files/download-files/OPB733TR.pdf" 350 150 50 H I L CNN
+F4 "Optical Switches, Reflective, Phototransistor Output Reflective Sensor 0.4in to 1.0in" 350 50 50 H I L CNN "Description"
+F5 "2.89" 350 -50 50 H I L CNN "Height"
+F6 "TT Electronics" 350 -150 50 H I L CNN "Manufacturer_Name"
+F7 "OPB733TR" 350 -250 50 H I L CNN "Manufacturer_Part_Number"
+F8 "828-OPB733TR" 350 -350 50 H I L CNN "Mouser Part Number"
+DRAW
+P 2 0 1 0 -100 0 -200 0 N
+P 3 0 1 0 -150 0 -150 -150 -300 -150 N
+P 3 0 1 0 100 50 100 -50 100 -100 N
+P 4 0 1 0 100 -50 150 -100 150 -150 300 -150 N
+P 4 0 1 0 100 0 150 50 150 150 300 150 N
+P 4 0 1 0 150 -100 125 -100 150 -75 150 -100 N
+P 5 0 1 6 -300 250 300 250 300 -250 -300 -250 -300 250 N
+P 7 0 1 0 -300 150 -150 150 -150 50 -100 50 -150 0 -200 50 -150 50 N
+X K 1 -500 -150 200 R 50 50 0 0 B
+X E 2 500 -150 200 L 50 50 0 0 B
+X C 3 500 150 200 L 50 50 0 0 B
+X A 4 -500 150 200 R 50 50 0 0 B
+ENDDRAW
+ENDDEF
+#
 # OV5647
 #
 DEF OV5647 U 0 40 Y Y 1 F N

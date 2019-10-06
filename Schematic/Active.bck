@@ -344,6 +344,12 @@ K Infrared LED
 F https://www.lumileds.com/uploads/682/DS190-pdf
 $ENDCMP
 #
+$CMP LED_LZ1
+D Light emitting diode, filled shape
+K LED diode
+F ~
+$ENDCMP
+#
 $CMP LED_Small
 K LED
 $ENDCMP
@@ -380,6 +386,10 @@ $CMP MAX6326
 D Ultra-low power microprocessor reset circuit
 K Reset Circuit, PMIC Supervisor
 F Z:/Engineering/Datasheets/Integrated_Circuits/PMIC_Supervisor/Maxim_MAX6326.pdf
+$ENDCMP
+#
+$CMP MIC28514T-E_PHA
+F 75V/5A Hyper Speed Control Synchronous DC/DC Buck Regulator with External Soft Start, 32 VQFN 6x6x0.9mm T/R
 $ENDCMP
 #
 $CMP MIC803-29D3VM3
@@ -423,6 +433,11 @@ $ENDCMP
 $CMP MUN5214DW1T1G
 D Dual NPN Bias Resistor Transistors
 F http://www.onsemi.com/pub/Collateral/DTC114YD-D.PDF
+$ENDCMP
+#
+$CMP OPB733TR
+D Optical Switches, Reflective, Phototransistor Output Reflective Sensor 0.4in to 1.0in
+F http://www.ttelectronics.com/sites/default/files/download-files/OPB733TR.pdf
 $ENDCMP
 #
 $CMP PRTR5V0U2X

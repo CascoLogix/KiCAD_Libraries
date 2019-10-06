@@ -179,6 +179,11 @@ K Boost, Switching Regulator, SEPIC
 F Z:/Engineering/Datasheets/Integrated_Circuits/Switching_Regulators/Micrel_MIC2172.pdf
 $ENDCMP
 #
+$CMP OPB733TR
+D Optical Switches, Reflective, Phototransistor Output Reflective Sensor 0.4in to 1.0in
+F http://www.ttelectronics.com/sites/default/files/download-files/OPB733TR.pdf
+$ENDCMP
+#
 $CMP PAM2306AYPKE
 D DUAL HIGH-EFFICIENCY PWM STEP-DOWN DC-DC CONVERTER
 F https://www.diodes.com/assets/Datasheets/PAM2306.pdf
