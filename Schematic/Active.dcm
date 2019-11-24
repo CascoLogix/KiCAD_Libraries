@@ -388,10 +388,6 @@ K Reset Circuit, PMIC Supervisor
 F Z:/Engineering/Datasheets/Integrated_Circuits/PMIC_Supervisor/Maxim_MAX6326.pdf
 $ENDCMP
 #
-$CMP MIC28514T-E_PHA
-F 75V/5A Hyper Speed Control Synchronous DC/DC Buck Regulator with External Soft Start, 32 VQFN 6x6x0.9mm T/R
-$ENDCMP
-#
 $CMP MIC803-29D3VM3
 D 3-Pin Microprocessor Supervisor Circuit
 $ENDCMP

@@ -435,11 +435,6 @@ D Dual NPN Bias Resistor Transistors
 F http://www.onsemi.com/pub/Collateral/DTC114YD-D.PDF
 $ENDCMP
 #
-$CMP OPB733TR
-D Optical Switches, Reflective, Phototransistor Output Reflective Sensor 0.4in to 1.0in
-F http://www.ttelectronics.com/sites/default/files/download-files/OPB733TR.pdf
-$ENDCMP
-#
 $CMP PRTR5V0U2X
 D Ultra low capacitance double rail-to-rail ESD protection diode
 $ENDCMP
