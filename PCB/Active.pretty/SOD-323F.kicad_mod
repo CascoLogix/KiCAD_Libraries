@@ -1,5 +1,4 @@
-(module SOD-323F (layer F.Cu) (tedit 5DDB583F)
-  (attr smd)
+(module SOD-323F (layer F.Cu) (tedit 5DD9C080)
   (fp_text reference **REF (at 0 -2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
