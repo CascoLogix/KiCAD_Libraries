@@ -260,6 +260,12 @@ K CURRENT-LIMITED LOAD SWITCH
 F https://www.diodes.com/assets/Datasheets/AP2331.pdf
 $ENDCMP
 #
+$CMP AP63203WU-7
+D 2A Low Iq Synchronous Buck with Enhanced EMI Reduction, TSOT-23-6
+K 2A 1MHz PWM Buck DC/DC
+F https://www.diodes.com/assets/Datasheets/AP63200-AP63201-AP63203-AP63205.pdf
+$ENDCMP
+#
 $CMP AP7380-33WR-7
 D IC REG LINEAR 3.3V 150MA SOT25
 K Linear Voltage Regulator IC Positive Fixed 1 Output
