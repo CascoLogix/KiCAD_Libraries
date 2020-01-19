@@ -1,4 +1,4 @@
-(module TSSOP-16 (layer F.Cu) (tedit 502B1A07)
+(module TSSOP-16 (layer F.Cu) (tedit 5E2485EB)
   (attr smd)
   (fp_text reference TSSOP-16 (at 0 -3.556) (layer F.SilkS)
     (effects (font (size 0.762 0.762) (thickness 0.1016)))
@@ -27,7 +27,7 @@
   (pad 14 smd rect (at 2.54508 -0.97536 270) (size 0.381 1.27) (layers F.Cu F.Paste F.Mask))
   (pad 15 smd rect (at 2.54508 -1.6256 270) (size 0.381 1.27) (layers F.Cu F.Paste F.Mask))
   (pad 16 smd rect (at 2.54508 -2.27584 270) (size 0.381 1.27) (layers F.Cu F.Paste F.Mask))
-  (model smd\smd_dil\tssop-16.wrl
+  (model ${CASCO_LOGIX_KISYS3DMOD}/ICs/TSSOP/STEP/TSSOP-16.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

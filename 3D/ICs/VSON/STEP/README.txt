@@ -1,0 +1,1 @@
+Place STEP output files here.  These are files exported from the CAD design source file, or 3D Models in STEP file format downloaded from online sources such as 3Dcontentcentral, or component vendor websites.

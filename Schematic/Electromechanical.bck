@@ -5,6 +5,10 @@ D Dip Switch DPDT 2 Position Surface Mount Rotary for Tool Actuator 100mA 16VDC
 K SWITCH ROTARY DIP DPDT 100MA 16V
 $ENDCMP
 #
+$CMP EE2NUH
+F Omron
+$ENDCMP
+#
 $CMP ESE16J001
 D SWITCH DETECTOR SPST-NO 10MA 5V
 K Pushbutton, Button, Switch, Momentary, Detector
@@ -80,6 +84,30 @@ $CMP SWITCH_TL3330
 D E-Switch TL3330
 K Switch Tactile Push, Right Angle
 F https://www.e-switch.com/system/asset/product_line/data_sheet/163/TL3330.pdf
+$ENDCMP
+#
+$CMP Speaker_Crystal
+D Crystal speaker/transducer
+K crystal speaker ultrasonic transducer
+F ~
+$ENDCMP
+#
+$CMP Speaker_Crystal_PN
+D Crystal speaker/transducer
+K crystal speaker ultrasonic transducer
+F ~
+$ENDCMP
+#
+$CMP Speaker_Ultrasound
+D Ultrasonic transducer
+K crystal speaker ultrasonic transducer
+F ~
+$ENDCMP
+#
+$CMP Speaker_Ultrasound_PN
+D Ultrasonic transducer
+K crystal speaker ultrasonic transducer
+F ~
 $ENDCMP
 #
 #End Doc Library

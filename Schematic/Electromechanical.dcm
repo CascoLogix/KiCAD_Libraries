@@ -5,6 +5,10 @@ D Dip Switch DPDT 2 Position Surface Mount Rotary for Tool Actuator 100mA 16VDC
 K SWITCH ROTARY DIP DPDT 100MA 16V
 $ENDCMP
 #
+$CMP EE2NUH
+F Omron
+$ENDCMP
+#
 $CMP ESE16J001
 D SWITCH DETECTOR SPST-NO 10MA 5V
 K Pushbutton, Button, Switch, Momentary, Detector
