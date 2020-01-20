@@ -1,4 +1,4 @@
-(module C_1210 (layer F.Cu) (tedit 5B4A0B02)
+(module C_1210 (layer F.Cu) (tedit 5E24E54E)
   (descr "Capacitor SMD 1210, reflow soldering, AVX (see smccp.pdf)")
   (tags "capacitor 1210")
   (attr smd)
@@ -23,7 +23,7 @@
   (fp_line (start 2.25 1.5) (end -2.25 1.5) (layer F.CrtYd) (width 0.05))
   (pad 1 smd rect (at -1.5 0) (size 1 2.5) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.5 0) (size 1 2.5) (layers F.Cu F.Paste F.Mask))
-  (model Capacitors_SMD.3dshapes/C_1210.wrl
+  (model ${CASCO_LOGIX_KISYS3DMOD}/Discrete/Passive/Capacitors/STEP/C_1210_3225Metric.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

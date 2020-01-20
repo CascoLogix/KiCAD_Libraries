@@ -50,6 +50,12 @@ K Low Profile, Magnetic Shield, DC-DC Covnerter
 F http://www.toko.co.jp/products-murata/pdf/inductors/m_dg6050c.pdf
 $ENDCMP
 #
+$CMP INDUCTOR
+D Inductor symbol for simulation only
+K simulation
+F ~
+$ENDCMP
+#
 $CMP PTC
 D Resistance
 K R DEV

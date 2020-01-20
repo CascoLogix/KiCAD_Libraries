@@ -372,6 +372,10 @@ K Adjustable Voltage Regulator 1A Positive
 F http://www.ti.com/lit/ds/symlink/lm317.pdf
 $ENDCMP
 #
+$CMP LT8364
+F https://www.analog.com/media/en/technical-documentation/data-sheets/8364f.pdf
+$ENDCMP
+#
 $CMP LTC4412
 D Low Loss PowerPath Controller
 F Z:/Engineering/Datasheets/Integrated_Circuits/PMIC_Supervisor/LT_LTC4412.pdf
@@ -504,6 +508,12 @@ $CMP TCA9534
 D 8 Bit Port/Expander, I2C SMBUS, Interrupt output, TSSOP-16, SOIC-16
 K SMBUS I2C Expander
 F http://www.ti.com/lit/ds/symlink/tca9534.pdf
+$ENDCMP
+#
+$CMP TLP291
+D DC Optocoupler, Vce 80V, CTR 50-100%, SOP4
+K NPN DC Optocoupler
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=12884&prodName=TLP291
 $ENDCMP
 #
 $CMP TLV7031

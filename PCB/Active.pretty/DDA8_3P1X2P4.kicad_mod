@@ -1,4 +1,4 @@
-(module DDA8_3P1X2P4 (layer F.Cu) (tedit 5C6768CA)
+(module DDA8_3P1X2P4 (layer F.Cu) (tedit 5E24E37A)
   (fp_text reference REF** (at 0 -3.429) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.127)))
   )
@@ -37,4 +37,9 @@
   (pad 3 smd rect (at -2.5654 0.635) (size 1.778 0.5334) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -2.5654 -0.635) (size 1.778 0.5334) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -2.5654 -1.905) (size 1.778 0.5334) (layers F.Cu F.Paste F.Mask))
+  (model ${CASCO_LOGIX_KISYS3DMOD}/ICs/SOIC/STEP/SOIC-8-150.step
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
