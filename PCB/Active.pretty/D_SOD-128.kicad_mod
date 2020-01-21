@@ -1,4 +1,4 @@
-(module D_SOD-128 (layer F.Cu) (tedit 5D3216F4)
+(module D_SOD-128 (layer F.Cu) (tedit 5E265CEB)
   (descr "D_SOD-128 (CFP5 SlimSMAW), https://assets.nexperia.com/documents/outline-drawing/SOD128.pdf")
   (tags D_SOD-128)
   (attr smd)
@@ -31,7 +31,7 @@
   )
   (pad 2 smd rect (at 2.2 0) (size 1.4 2.1) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -2.2 0) (size 1.4 2.1) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-128.wrl
+  (model ${CASCO_LOGIX_KISYS3DMOD}/Discrete/Active/STEP/SOD-128.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
