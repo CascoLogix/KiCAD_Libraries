@@ -534,6 +534,12 @@ K single comparator
 F http://www.ti.com/lit/ds/symlink/tlv7041.pdf
 $ENDCMP
 #
+$CMP TPS1H000
+D 2A Low Iq Synchronous Buck with Enhanced EMI Reduction, TSOT-23-6
+K 2A 1MHz PWM Buck DC/DC
+F http://www.ti.com/lit/ds/symlink/tps1h000-q1.pdf
+$ENDCMP
+#
 $CMP TPS2378DDAR
 D TPS2378 IEEE 802.3at PoE High-Power PD Interface
 K TPS2378 802.3at PoE High-Power PD Interface
