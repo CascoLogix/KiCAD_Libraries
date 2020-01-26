@@ -318,6 +318,11 @@ D Generic Diode Bridge
 K Diode Bridge Rectifier Full Wave
 $ENDCMP
 #
+$CMP DIODE_BRIDGE2
+D Generic Diode Bridge
+K Diode Bridge Rectifier Full Wave
+$ENDCMP
+#
 $CMP DIODE_SCHOTTKY
 D Diode schottky
 K DEV DIODE
@@ -331,6 +336,12 @@ $ENDCMP
 $CMP DIODE_ZENER
 D Diode zener
 K DEV DIODE
+$ENDCMP
+#
+$CMP D_Bridge_AA+-
+D Diode bridge, AC/AC/+ve/-ve
+K rectifier ACDC
+F ~
 $ENDCMP
 #
 $CMP ESDA6V1-5SC6

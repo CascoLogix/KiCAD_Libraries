@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 2_SCHOTTKY_ARRA
+D Dual Switching Diode, Common Cathode
+K Diode, Dual, Pair, Common Cathode, Array
+$ENDCMP
+#
 $CMP 74AHC1G04
 D Single NOT Gate, Low-Voltage CMOS
 K Single Gate NOT LVC CMOS
@@ -318,6 +323,11 @@ D Generic Diode Bridge
 K Diode Bridge Rectifier Full Wave
 $ENDCMP
 #
+$CMP DIODE_BRIDGE2
+D Generic Diode Bridge
+K Diode Bridge Rectifier Full Wave
+$ENDCMP
+#
 $CMP DIODE_SCHOTTKY
 D Diode schottky
 K DEV DIODE
@@ -333,10 +343,21 @@ D Diode zener
 K DEV DIODE
 $ENDCMP
 #
+$CMP D_Bridge_AA+-
+D Diode bridge, AC/AC/+ve/-ve
+K rectifier ACDC
+F ~
+$ENDCMP
+#
 $CMP ESDA6V1-5SC6
 D TRANSIL ARRAY FOR ESD PROTECTION
 K ESD
 F https://www.st.com/content/ccc/resource/technical/document/datasheet/group2/13/b7/cb/ef/22/fb/46/82/CD00005102/files/CD00005102.pdf/jcr:content/translations/en.CD00005102.pdf
+$ENDCMP
+#
+$CMP FPF1320
+D Power Switch/Driver 2:1 P-Channel 1.5A 6-WLCSP (0.96x1.66)
+F https://www.onsemi.com/pub/Collateral/FPF1321-D.PDF
 $ENDCMP
 #
 $CMP FT230XQ
