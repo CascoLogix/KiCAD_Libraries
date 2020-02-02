@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 2_SCHOTTKY_ARRA
+D Dual Switching Diode, Common Cathode
+K Diode, Dual, Pair, Common Cathode, Array
+$ENDCMP
+#
 $CMP 74AHC1G04
 D Single NOT Gate, Low-Voltage CMOS
 K Single Gate NOT LVC CMOS
@@ -296,6 +301,12 @@ K Adjustable Voltage Regulator 1A Positive LDO
 F https://www.diodes.com/assets/Datasheets/AZ1117.pdf
 $ENDCMP
 #
+$CMP BAS40-04
+D 40V 0.2A Dual Small Signal Schottky Diodes
+K Schottky, Diode
+F http://www.vishay.com/docs/85701/bas40v.pdf
+$ENDCMP
+#
 $CMP BAT40V-7
 D DIODE ARRAY SCHOTTKY 40V SOT563
 K Diode, Dual, Pair, Array
@@ -348,6 +359,11 @@ $CMP ESDA6V1-5SC6
 D TRANSIL ARRAY FOR ESD PROTECTION
 K ESD
 F https://www.st.com/content/ccc/resource/technical/document/datasheet/group2/13/b7/cb/ef/22/fb/46/82/CD00005102/files/CD00005102.pdf/jcr:content/translations/en.CD00005102.pdf
+$ENDCMP
+#
+$CMP FPF1320
+D Power Switch/Driver 2:1 P-Channel 1.5A 6-WLCSP (0.96x1.66)
+F https://www.onsemi.com/pub/Collateral/FPF1321-D.PDF
 $ENDCMP
 #
 $CMP FT230XQ
@@ -516,6 +532,12 @@ $CMP PRTR5V0U2X
 D Ultra low capacitance double rail-to-rail ESD protection diode
 $ENDCMP
 #
+$CMP PSSI2021SAY
+D IC CURRENT SOURCE REGULATOR 50mA SOT353
+K current source sot353
+F https://assets.nexperia.com/documents/data-sheet/PSSI2021SAY.pdf
+$ENDCMP
+#
 $CMP RT9819
 D Micro-Power Voltage Detector
 K Reset Circuit, PMIC Supervisor
@@ -531,6 +553,12 @@ $CMP TCA9534
 D 8 Bit Port/Expander, I2C SMBUS, Interrupt output, TSSOP-16, SOIC-16
 K SMBUS I2C Expander
 F http://www.ti.com/lit/ds/symlink/tca9534.pdf
+$ENDCMP
+#
+$CMP TLA2024
+D 12 Bit Analog to Digital Converter 4 Input 1 Sigma-Delta 10-X2QFN (2x1.5) 
+K Analog to Digitla Converter
+F http://www.ti.com/lit/ds/symlink/tla2021.pdf
 $ENDCMP
 #
 $CMP TLP291
