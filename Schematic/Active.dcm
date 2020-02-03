@@ -556,7 +556,7 @@ F http://www.ti.com/lit/ds/symlink/tca9534.pdf
 $ENDCMP
 #
 $CMP TLA2024
-D 12 Bit Analog to Digital Converter 4 Input 1 Sigma-Delta 10-X2QFN (2x1.5) 
+D 12 Bit Analog to Digital Converter 4 Input 1 Sigma-Delta 10-X2QFN (2x1.5)
 K Analog to Digitla Converter
 F http://www.ti.com/lit/ds/symlink/tla2021.pdf
 $ENDCMP
