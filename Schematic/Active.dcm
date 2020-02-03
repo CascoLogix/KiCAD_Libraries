@@ -301,6 +301,12 @@ K Adjustable Voltage Regulator 1A Positive LDO
 F https://www.diodes.com/assets/Datasheets/AZ1117.pdf
 $ENDCMP
 #
+$CMP BAS40-04
+D 40V 0.2A Dual Small Signal Schottky Diodes
+K Schottky, Diode
+F http://www.vishay.com/docs/85701/bas40v.pdf
+$ENDCMP
+#
 $CMP BAT40V-7
 D DIODE ARRAY SCHOTTKY 40V SOT563
 K Diode, Dual, Pair, Array
@@ -526,6 +532,12 @@ $CMP PRTR5V0U2X
 D Ultra low capacitance double rail-to-rail ESD protection diode
 $ENDCMP
 #
+$CMP PSSI2021SAY
+D IC CURRENT SOURCE REGULATOR 50mA SOT353
+K current source sot353
+F https://assets.nexperia.com/documents/data-sheet/PSSI2021SAY.pdf
+$ENDCMP
+#
 $CMP RT9819
 D Micro-Power Voltage Detector
 K Reset Circuit, PMIC Supervisor
@@ -541,6 +553,12 @@ $CMP TCA9534
 D 8 Bit Port/Expander, I2C SMBUS, Interrupt output, TSSOP-16, SOIC-16
 K SMBUS I2C Expander
 F http://www.ti.com/lit/ds/symlink/tca9534.pdf
+$ENDCMP
+#
+$CMP TLA2024
+D 12 Bit Analog to Digital Converter 4 Input 1 Sigma-Delta 10-X2QFN (2x1.5)
+K Analog to Digitla Converter
+F http://www.ti.com/lit/ds/symlink/tla2021.pdf
 $ENDCMP
 #
 $CMP TLP291
