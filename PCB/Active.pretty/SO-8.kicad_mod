@@ -1,4 +1,4 @@
-(module SO-8 (layer F.Cu) (tedit 5B4A140D)
+(module SO-8 (layer F.Cu) (tedit 5E3B6F8F)
   (attr smd)
   (fp_text reference Ref** (at 0 -3.81) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.127)))
@@ -35,8 +35,8 @@
   (pad 2 smd rect (at -2.667 -0.635 270) (size 0.508 1.143) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at -2.667 0.635 270) (size 0.508 1.143) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at -2.667 1.905 270) (size 0.508 1.143) (layers F.Cu F.Paste F.Mask))
-  (model C:/Engineering/KiCAD_Libraries/3D/ICs/SOIC/VRML/SOIC-8-150.wrl
-    (at (xyz 0 0 0.005))
+  (model ${CASCO_LOGIX_KISYS3DMOD}/ICs/SOIC/STEP/SOIC-8-150.step
+    (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )

@@ -1,4 +1,4 @@
-(module HEADER_M_2.54MM_1R3P_ST_AU_PTH (layer F.Cu) (tedit 5C3B9449)
+(module HEADER_M_2.54MM_1R3P_ST_AU_PTH (layer F.Cu) (tedit 5E3B7CD3)
   (tags Header)
   (fp_text reference P2 (at -4.8 0 -270) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.127)))
@@ -25,7 +25,7 @@
   (pad 1 thru_hole rect (at -2.54 0) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 0) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 2.54 0) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask))
-  (model ${CASCO_LOGIX_KISYS3DMOD}/Headers/VRML/HEADER_M_2.54MM_1R3P_0.230H_0.120T_ST_AU_PTH.wrl
+  (model ${CASCO_LOGIX_KISYS3DMOD}/Headers/STEP/HEADER_M_2.54MM_1R3P_ST_AU_PTH.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

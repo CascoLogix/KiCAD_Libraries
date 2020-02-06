@@ -1,4 +1,4 @@
-(module SOT-353_SC-70-5 (layer F.Cu) (tedit 5B49FEAE)
+(module SOT-353_SC-70-5 (layer F.Cu) (tedit 5E3B7054)
   (descr "SOT-353, SC-70-5")
   (tags "SOT-353 SC-70-5")
   (attr smd)
@@ -27,7 +27,7 @@
   (pad 2 smd rect (at -0.95 0) (size 0.65 0.4) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 0.95 0.65) (size 0.65 0.4) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at 0.95 -0.65) (size 0.65 0.4) (layers F.Cu F.Paste F.Mask))
-  (model C:/Engineering/KiCAD_Libraries/3D/ICs/SC70/VRML/SC70-5-1.wrl
+  (model ${CASCO_LOGIX_KISYS3DMOD}/ICs/SC70/STEP/SC70-5-1.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
