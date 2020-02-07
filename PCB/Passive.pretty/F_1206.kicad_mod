@@ -1,4 +1,4 @@
-(module F_1206 (layer F.Cu) (tedit 5E3B86E6)
+(module F_1206 (layer F.Cu) (tedit 5E3CC7EF)
   (descr "Resistor SMD 1206, reflow soldering, Vishay (see dcrcw.pdf)")
   (tags "resistor 1206")
   (attr smd)
@@ -23,4 +23,9 @@
   )
   (pad 2 smd rect (at 1.45 0) (size 0.9 1.7) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -1.45 0) (size 0.9 1.7) (layers F.Cu F.Paste F.Mask))
+  (model ${CASCO_LOGIX_KISYS3DMOD}/Discrete/Passive/Fuse/STEP/PTC_Fuse_1206.step
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
