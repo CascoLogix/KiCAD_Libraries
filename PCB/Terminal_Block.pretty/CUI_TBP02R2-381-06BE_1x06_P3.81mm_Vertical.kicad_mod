@@ -1,6 +1,5 @@
-(module CUI_TBP02R2-381-06BE_1x06_P3.81mm_Vertical (layer F.Cu) (tedit 5E24B072)
-  (descr "Generic Phoenix Contact connector footprint for: MCV_1,5/6-G-3.81; number of pins: 06; pin pitch: 3.81mm; Vertical || order number: 1803468 8A 160V")
-  (tags "phoenix_contact connector MCV_01x06_G_3.81mm")
+(module CUI_TBP02R2-381-06BE_1x06_P3.81mm_Vertical (layer F.Cu) (tedit 5E3EE28E)
+  (tags "terminal block")
   (fp_text reference REF** (at 9.52 -5.45) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
