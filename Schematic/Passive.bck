@@ -27,6 +27,10 @@ D PCB Trace Antenna
 K Antenna
 $ENDCMP
 #
+$CMP CSTNE12M0G55A000R0
+F https://www.murata.com/en/products/productdata/8801162002462/SPEC-CSTNE12M0G55A000R0.pdf
+$ENDCMP
+#
 $CMP Crystal_ECX-32
 D Four pin crystal
 K Quartz, Resonator, Ceramic, Filter
@@ -48,6 +52,12 @@ $CMP DG6050C
 D Ferrite Inductor
 K Low Profile, Magnetic Shield, DC-DC Covnerter
 F http://www.toko.co.jp/products-murata/pdf/inductors/m_dg6050c.pdf
+$ENDCMP
+#
+$CMP INDUCTOR
+D Inductor symbol for simulation only
+K simulation
+F ~
 $ENDCMP
 #
 $CMP PTC
