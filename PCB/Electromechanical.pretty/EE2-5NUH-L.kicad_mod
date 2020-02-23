@@ -1,4 +1,5 @@
-(module EE2-5NUH-L (layer F.Cu) (tedit 5E3CD24E)
+(module EE2-5NUH-L (layer F.Cu) (tedit 5E529E3D)
+  (attr smd)
   (fp_text reference REF (at 0 -8.636) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

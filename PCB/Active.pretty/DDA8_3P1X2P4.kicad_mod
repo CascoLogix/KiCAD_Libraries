@@ -1,4 +1,5 @@
-(module DDA8_3P1X2P4 (layer F.Cu) (tedit 5E24E37A)
+(module DDA8_3P1X2P4 (layer F.Cu) (tedit 5E52A1BE)
+  (attr smd)
   (fp_text reference REF** (at 0 -3.429) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.127)))
   )

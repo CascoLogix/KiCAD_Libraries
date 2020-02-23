@@ -1,4 +1,5 @@
-(module TLA2024IRUGR (layer F.Cu) (tedit 5E3CD1DF)
+(module TLA2024IRUGR (layer F.Cu) (tedit 5E52A1EB)
+  (attr smd)
   (fp_text reference REF (at 0 -2.54) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.127)))
   )

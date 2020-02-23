@@ -1,4 +1,5 @@
-(module Bourns_SDR1307 (layer F.Cu) (tedit 5E3B7FC3)
+(module Bourns_SDR1307 (layer F.Cu) (tedit 5E52A101)
+  (attr smd)
   (fp_text reference REF** (at 0 -8.128) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
