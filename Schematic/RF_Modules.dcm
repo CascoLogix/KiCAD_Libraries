@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ATSAMR30M18A
+D Compact 802.15.4 Sub-GHz module
+F https://www.digikey.com/products/en?keywords=ATSAMR30M18AT-I%2FRM100CT-ND
+$ENDCMP
+#
 $CMP DBM01
 D Dorji 2.4-GHz Low Energy Bluetooth 4.0 Module
 K BLE, Bluetooth. Dorji

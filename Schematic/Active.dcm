@@ -585,6 +585,12 @@ K single comparator
 F http://www.ti.com/lit/ds/symlink/tlv7041.pdf
 $ENDCMP
 #
+$CMP TLV7031-ALT
+D Comparator General Purpose Push-Pull SC-70-5
+K single comparator
+F http://www.ti.com/lit/ds/symlink/tlv7041.pdf
+$ENDCMP
+#
 $CMP TPS1H000
 D 2A Low Iq Synchronous Buck with Enhanced EMI Reduction, TSOT-23-6
 K 2A 1MHz PWM Buck DC/DC
