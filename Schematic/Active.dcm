@@ -550,6 +550,11 @@ K Reset Circuit, PMIC Supervisor
 F http://www.richtek.com/assets/product_file/RT9819/DS9819-08.pdf
 $ENDCMP
 #
+$CMP RV-3028-C7
+D IC RTC CLK/CALENDAR I2C 8-SMT
+F https://www.microcrystal.com/fileadmin/Media/Products/RTC/Datasheet/RV-3028-C7.pdf
+$ENDCMP
+#
 $CMP SN74AUP1G98
 D LOW-POWER CONFIGURABLE MULTIPLE-FUNCTION GATE
 F http://www.ti.com/lit/ds/symlink/sn74aup1g98.pdf

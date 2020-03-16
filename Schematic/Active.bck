@@ -295,11 +295,6 @@ K Reset Circuit, PMIC Supervisor
 F http://www.diodes.com/_files/datasheets/APX809_APX810.pdf
 $ENDCMP
 #
-$CMP ATSAMR30M18A
-D Compact 802.15.4 Sub-GHz module
-F https://www.digikey.com/products/en?keywords=ATSAMR30M18AT-I%2FRM100CT-ND
-$ENDCMP
-#
 $CMP AZ1117-ADJ
 D 1A 20V Adjustable LDO Linear Regulator, SOT-89/SOT-223/TO-220/TO-252/TO-263
 K Adjustable Voltage Regulator 1A Positive LDO
@@ -553,6 +548,11 @@ $CMP RT9819
 D Micro-Power Voltage Detector
 K Reset Circuit, PMIC Supervisor
 F http://www.richtek.com/assets/product_file/RT9819/DS9819-08.pdf
+$ENDCMP
+#
+$CMP RV-3028-C7
+D IC RTC CLK/CALENDAR I2C 8-SMT
+F https://www.microcrystal.com/fileadmin/Media/Products/RTC/Datasheet/RV-3028-C7.pdf
 $ENDCMP
 #
 $CMP SN74AUP1G98
