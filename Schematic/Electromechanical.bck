@@ -21,6 +21,12 @@ K Pushbutton, Button, Switch, Momentary, Detector
 F https://industrial.panasonic.com/cdbs/www-data/pdf/ATB0000/ATB0000C12.pdf
 $ENDCMP
 #
+$CMP EVP-ASAC1A
+D SWITCH TACTILE SPST-NO 0.05A 12V
+K Tactile Switch SPST-NO Top Actuated Surface Mount
+F file:///C:/Users/bsk_e/AppData/Local/Temp/sw_lt_eng_6s_long_2t-3.pdf
+$ENDCMP
+#
 $CMP FSMJ
 F C:/Engineering/Datasheets/Electromechanical/Switches/Tyco_FSM-Series.pdf
 $ENDCMP

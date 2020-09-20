@@ -491,8 +491,20 @@ K USB SPI Master Converter Bridge
 F https://ww1.microchip.com/downloads/en/DeviceDoc/22288A.pdf
 $ENDCMP
 #
+$CMP MCP6541
+D Comparator General Purpose CMOS, Push-Pull, Rail-to-Rail, TTL 8-SOIC
+K single comparator
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP6541%20Output%20SubMicroamp%20Comparators%2020001696K.pdf
+$ENDCMP
+#
 $CMP MIC803-29D3VM3
 D 3-Pin Microprocessor Supervisor Circuit
+$ENDCMP
+#
+$CMP MIC94080
+D IC PWR SWITCH P-CHAN 1:1 4TMLF
+K Power Switch/Driver 1:1 P-Channel 2A 4-TMLF® (0.85x0.85)
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MIC9408x-67mOhm-RDSON-2A-High-Side-Load-Switch-DS20006118A.pdf
 $ENDCMP
 #
 $CMP MIC94090
@@ -553,6 +565,12 @@ $ENDCMP
 $CMP RV-3028-C7
 D IC RTC CLK/CALENDAR I2C 8-SMT
 F https://www.microcrystal.com/fileadmin/Media/Products/RTC/Datasheet/RV-3028-C7.pdf
+$ENDCMP
+#
+$CMP S-1206B30
+D IC REG LINEAR 3V 250MA SOT89-3
+K Linear Voltage Regulator IC  1 Output  250mA SOT-89-3
+F https://www.diodes.com/assets/Datasheets/AP7380.pdf
 $ENDCMP
 #
 $CMP SN74AUP1G98
