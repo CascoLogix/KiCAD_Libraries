@@ -54,9 +54,21 @@ K Low Profile, Magnetic Shield, DC-DC Covnerter
 F http://www.toko.co.jp/products-murata/pdf/inductors/m_dg6050c.pdf
 $ENDCMP
 #
+$CMP EMI_Filter_CommonMode
+D EMI 2-inductor common mode filter
+K EMI common mode filter
+F ~
+$ENDCMP
+#
 $CMP INDUCTOR
 D Inductor symbol for simulation only
 K simulation
+F ~
+$ENDCMP
+#
+$CMP PE-53913NLT
+D COMMON MODE CHOKE 1A 2LN SMD
+K 2 Line Common Mode Choke Surface Mount  1A DCR 450mOhm
 F ~
 $ENDCMP
 #

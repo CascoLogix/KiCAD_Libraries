@@ -6,6 +6,12 @@ K MAGJACK
 F https://www.we-online.com/catalog/datasheet/74984104400.pdf
 $ENDCMP
 #
+$CMP 74984104401
+D CONN JACK 1PORT 100 BASE-T PCB
+K RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX, Power over Ethernet+ (PoE+)
+F https://www.we-online.com/catalog/datasheet/74984104401.pdf
+$ENDCMP
+#
 $CMP 7499210121A
 D CONN MAGJACK 1PORT 100 BASE-T
 K MAGJACK

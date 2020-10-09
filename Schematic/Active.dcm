@@ -377,6 +377,12 @@ K Schmitt Trigger Logic Output Optocoupler
 F http://www.everlight.com/file/ProductFile/H11L1.pdf
 $ENDCMP
 #
+$CMP KTA1550
+D ESD Suppressors / TVS Diodes Dual-channel Active choke for EMI suppression w/ Integrated ESD Protection 
+K ESD Suppressor TVD
+F https://www.mouser.com/datasheet/2/936/KTA1550-04e_Datasheet_Brief-1488150.pdf
+$ENDCMP
+#
 $CMP L1F3-U380200008000
 D LUXEON UV U Line Ultraviolet LED
 K Ultraviolet (UV) LED
