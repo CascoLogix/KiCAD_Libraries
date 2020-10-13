@@ -378,7 +378,7 @@ F http://www.everlight.com/file/ProductFile/H11L1.pdf
 $ENDCMP
 #
 $CMP KTA1550
-D ESD Suppressors / TVS Diodes Dual-channel Active choke for EMI suppression w/ Integrated ESD Protection 
+D ESD Suppressors / TVS Diodes Dual-channel Active choke for EMI suppression w/ Integrated ESD Protection
 K ESD Suppressor TVD
 F https://www.mouser.com/datasheet/2/936/KTA1550-04e_Datasheet_Brief-1488150.pdf
 $ENDCMP

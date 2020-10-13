@@ -32,9 +32,15 @@ D AC DC power module
 K AC DC Converter, Power Supply
 $ENDCMP
 #
+$CMP MTU1
+D DC DC CONVERTER 5V 1W
+K DC-DC Converter, MTU1
+$ENDCMP
+#
 $CMP Recom_DC_DC_Conv
 D Recom DC/DC Converter
 K Recom DC/DC Converter
+F https://www.recom-power.com/pdf/Econoline/ROE.pdf
 $ENDCMP
 #
 $CMP SHB-5W
