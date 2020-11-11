@@ -4,4 +4,8 @@ $CMP MOUNTING_HOLE
 D Generic Mounting Hole
 $ENDCMP
 #
+$CMP MOUNTING_HOLE2
+D Generic Mounting Hole
+$ENDCMP
+#
 #End Doc Library
