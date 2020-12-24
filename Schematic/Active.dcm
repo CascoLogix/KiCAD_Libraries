@@ -71,6 +71,12 @@ K Single Gate NOT LVC CMOS
 F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
 $ENDCMP
 #
+$CMP 74LVC2G17
+D Dual Buffer Schmitt Triggered, Low-Voltage CMOS
+K Dual Buffer Schmitt LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
 $CMP AAT3221
 D LDO Regulator
 F C:/Engineering/Datasheets/Integrated_Circuits/Regulators/Skyworks_AAT3221_AAT3222_202251B.pdf
