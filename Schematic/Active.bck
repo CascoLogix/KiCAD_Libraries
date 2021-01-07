@@ -71,6 +71,12 @@ K Single Gate NOT LVC CMOS
 F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
 $ENDCMP
 #
+$CMP 74LVC2G17
+D Dual Buffer Schmitt Triggered, Low-Voltage CMOS
+K Dual Buffer Schmitt LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
 $CMP AAT3221
 D LDO Regulator
 F C:/Engineering/Datasheets/Integrated_Circuits/Regulators/Skyworks_AAT3221_AAT3222_202251B.pdf
@@ -488,6 +494,12 @@ K Adjustable Voltage Regulator 1A Positive
 F http://www.ti.com/lit/ds/symlink/lm317.pdf
 $ENDCMP
 #
+$CMP LM66100
+D IC OR CTRLR IDEAL DIODE SC70-6
+K OR Controller  P-Channel 1:1 SC-70-6
+F https://www.ti.com/lit/ds/symlink/lm66100.pdf
+$ENDCMP
+#
 $CMP LT3001ES5
 D 36VIN 4W NO-OPTO ISO FLYBACK CON
 K Flyback Switching Regulator IC Positive Fixed 5V 1 Output 1.2A SOT-23-5 Thin, TSOT-23-5
@@ -496,12 +508,6 @@ $ENDCMP
 #
 $CMP LT8364
 F https://www.analog.com/media/en/technical-documentation/data-sheets/8364f.pdf
-$ENDCMP
-#
-$CMP LTC3001ES5
-D 36VIN 4W NO-OPTO ISO FLYBACK CON
-K Flyback Switching Regulator IC Positive Fixed 5V 1 Output 1.2A SOT-23-5 Thin, TSOT-23-5
-F https://www.analog.com/media/en/technical-documentation/data-sheets/LT3001.pdf
 $ENDCMP
 #
 $CMP LTC4412

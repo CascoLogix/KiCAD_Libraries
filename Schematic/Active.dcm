@@ -494,6 +494,12 @@ K Adjustable Voltage Regulator 1A Positive
 F http://www.ti.com/lit/ds/symlink/lm317.pdf
 $ENDCMP
 #
+$CMP LM66100
+D IC OR CTRLR IDEAL DIODE SC70-6
+K OR Controller  P-Channel 1:1 SC-70-6
+F https://www.ti.com/lit/ds/symlink/lm66100.pdf
+$ENDCMP
+#
 $CMP LT3001ES5
 D 36VIN 4W NO-OPTO ISO FLYBACK CON
 K Flyback Switching Regulator IC Positive Fixed 5V 1 Output 1.2A SOT-23-5 Thin, TSOT-23-5
