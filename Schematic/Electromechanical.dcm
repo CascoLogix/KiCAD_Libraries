@@ -116,4 +116,8 @@ K crystal speaker ultrasonic transducer
 F ~
 $ENDCMP
 #
+$CMP TE_IM_RLY_2
+F TE
+$ENDCMP
+#
 #End Doc Library

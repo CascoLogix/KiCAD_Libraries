@@ -482,6 +482,10 @@ $CMP LED_Small
 K LED
 $ENDCMP
 #
+$CMP LED_Small_21
+K LED
+$ENDCMP
+#
 $CMP LM2596
 D LM2596 Simple Switcher Power Converter 150-kHz
 K Step-Down Voltage Regulator
