@@ -123,3 +123,5 @@ PCB/ZZ_Working/
 *.pdf
 kicad-ESP8266/
 3D/ZZ_Working/
+3D/RF_Modules/STEP/CM4_Simplified.step
+3D/RF_Modules/STEP/CM4_Simplified_light_green.step
