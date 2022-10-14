@@ -88,6 +88,12 @@ K Reset Circuit, PMIC Supervisor
 F http://www.mouser.com/ds/2/472/202243A-258395.pdf
 $ENDCMP
 #
+$CMP ADG888Y
+D IC SWITCH DUAL DP4T 16TSSOP
+K analog switch
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADG888.pdf
+$ENDCMP
+#
 $CMP AO4752
 D N-Channel Logic Level Enhancement Mode Field Effect Transistor with Schottky Body Diode
 K FET, N-Channel, Schottky Body Diode
@@ -888,6 +894,18 @@ $ENDCMP
 $CMP TVS_Small
 D Transient voltage suppressor diode (bi-directional)
 K DEV TVS TRANSIENT SUPPROESSOR ESD
+$ENDCMP
+#
+$CMP USB_B_Micro
+D USB Micro Type B connector
+K connector USB micro
+F ~
+$ENDCMP
+#
+$CMP USB_B_Mini
+D USB Mini Type B connector
+K connector USB mini
+F ~
 $ENDCMP
 #
 $CMP W25Q128JVS
