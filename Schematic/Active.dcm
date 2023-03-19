@@ -1025,6 +1025,11 @@ K Buck-Boost, Buck, Boost, Converter, DC-DC, Switching, Regulator
 F http://www.ti.com/lit/ds/symlink/tps63001.pdf
 $ENDCMP
 #
+$CMP TPS92360
+D TPS92360 38-V 1.2-A single channel LED backlight driver
+F https://www.ti.com/lit/ds/symlink/tps92360.pdf
+$ENDCMP
+#
 $CMP TSM9117
 D 1.6V Nanopower Comparators with/without Internal References
 F Z:/Engineering/Datasheets/Integrated_Circuits/Comparators/Silicon Labs_TSM9117.pdf
