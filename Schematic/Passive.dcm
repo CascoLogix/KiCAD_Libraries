@@ -87,14 +87,14 @@ D Resistance
 K R DEV
 $ENDCMP
 #
-$CMP RES_NET_8_BUS
-D 8-Resistor Network (Bussed)
+$CMP RES_NET_2_ISO
+D 2-Resistor Network (Isolated)
 K Resistor Network
-F C:/Engineering/Datasheets/Discrete/Passive/Resistors/Rohm_MNR-Series.pdf
+F https://www.vishay.com/docs/28770/acasat.pdf
 $ENDCMP
 #
-$CMP RES_NET_8_ISO
-D 8-Resistor Network (Isolated)
+$CMP RES_NET_8_BUS
+D 8-Resistor Network (Bussed)
 K Resistor Network
 F C:/Engineering/Datasheets/Discrete/Passive/Resistors/Rohm_MNR-Series.pdf
 $ENDCMP
