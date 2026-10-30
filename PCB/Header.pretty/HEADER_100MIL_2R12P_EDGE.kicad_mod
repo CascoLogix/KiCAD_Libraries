@@ -1,0 +1,136 @@
+(footprint "HEADER_100MIL_2R12P_EDGE"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 3.175 0)
+		(layer "F.SilkS")
+		(uuid "52132c7d-4295-4277-ac49-1f6a40f35f62")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "HEADER_100MIL_2R12P_EDGE"
+		(at 0 -3.175 0)
+		(layer "F.Fab")
+		(uuid "70fa37de-edd7-45e0-96cb-9a0e80ef2d77")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "22a7ca59-c5fc-4c6e-bbda-c9d835b181e0")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "96d9ceb6-ee8a-4996-9ca3-9544245d3b3b")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(pad "1" smd rect
+		(at -6.35 0)
+		(size 1.27 3.81)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "12fc1548-adb9-4276-8367-820de086af01")
+	)
+	(pad "2" smd rect
+		(at -6.35 0)
+		(size 1.27 3.81)
+		(layers "B.Cu" "B.Mask" "B.Paste")
+		(uuid "42364c22-0433-4053-904c-8d3918736885")
+	)
+	(pad "3" smd rect
+		(at -3.81 0)
+		(size 1.27 3.81)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "e66e4cd9-0fd9-4f22-b6d0-437df5e4d50b")
+	)
+	(pad "4" smd rect
+		(at -3.81 0)
+		(size 1.27 3.81)
+		(layers "B.Cu" "B.Mask" "B.Paste")
+		(uuid "cae45403-ac37-4834-926a-b3af3a4eef11")
+	)
+	(pad "5" smd rect
+		(at -1.27 0)
+		(size 1.27 3.81)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "de7a49f7-26de-4ed1-834e-3ea20c5ad30e")
+	)
+	(pad "6" smd rect
+		(at -1.27 0)
+		(size 1.27 3.81)
+		(layers "B.Cu" "B.Mask" "B.Paste")
+		(uuid "6aeadc3c-6225-42b4-ae0c-e179f5b70017")
+	)
+	(pad "7" smd rect
+		(at 1.27 0)
+		(size 1.27 3.81)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "29be5e2f-58d5-4d0c-a157-fdacdea1ad83")
+	)
+	(pad "8" smd rect
+		(at 1.27 0)
+		(size 1.27 3.81)
+		(layers "B.Cu" "B.Mask" "B.Paste")
+		(uuid "387fd8ee-7f23-4288-9710-a9432e32b3be")
+	)
+	(pad "9" smd rect
+		(at 3.81 0)
+		(size 1.27 3.81)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "007431a1-1a35-4e6a-9c01-e4a5bfad4da5")
+	)
+	(pad "10" smd rect
+		(at 3.81 0)
+		(size 1.27 3.81)
+		(layers "B.Cu" "B.Mask" "B.Paste")
+		(uuid "f9e39844-a0dd-4138-a095-262f719e3de4")
+	)
+	(pad "11" smd rect
+		(at 6.35 0)
+		(size 1.27 3.81)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "318da516-e813-484a-8348-aad50982c55a")
+	)
+	(pad "12" smd rect
+		(at 6.35 0)
+		(size 1.27 3.81)
+		(layers "B.Cu" "B.Mask" "B.Paste")
+		(uuid "72c5ae1d-d407-4c58-a2de-8a0441de5436")
+	)
+	(embedded_fonts no)
+	(model "C:/Engineering/KiCAD_Libraries-master/3D/Headers/STEP/HEADER_M_2.54MM_2R12P_0.230H_ST_SN_PTH.stp"
+		(offset
+			(xyz 0 -3.048 -0.8128)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -180)
+		)
+	)
+)

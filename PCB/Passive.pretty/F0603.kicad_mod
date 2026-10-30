@@ -1,18 +1,97 @@
-(module F0603 (layer F.Cu) (tedit 58B65764)
-  (attr smd)
-  (fp_text reference F2 (at 0 1.397) (layer F.SilkS)
-    (effects (font (size 0.762 0.762) (thickness 0.127)))
-  )
-  (fp_text value PTC (at 0 1.397) (layer F.Fab) hide
-    (effects (font (size 0.762 0.762) (thickness 0.127)))
-  )
-  (fp_line (start -0.762 0.7096) (end 0.762 0.7096) (layer F.SilkS) (width 0.127))
-  (fp_line (start -0.762 -0.7096) (end 0.762 -0.7096) (layer F.SilkS) (width 0.127))
-  (pad 1 smd rect (at -0.6731 0) (size 0.8636 0.9906) (layers F.Cu F.Paste F.Mask))
-  (pad 2 smd rect (at 0.6731 0) (size 0.8636 0.9906) (layers F.Cu F.Paste F.Mask))
-  (model C:/Engineering/KiCAD_Libraries/3D/Discrete/Passive/Resistors/VRML/F0603.wrl
-    (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
+(footprint "F0603"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "F2"
+		(at 0 1.397 0)
+		(layer "F.SilkS")
+		(uuid "f7d73a96-0f03-45f3-b46f-17ef9602805b")
+		(effects
+			(font
+				(size 0.762 0.762)
+				(thickness 0.127)
+			)
+		)
+	)
+	(property "Value" "PTC"
+		(at 0 1.397 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8af04e00-d906-4845-a215-8641f1a7d26a")
+		(effects
+			(font
+				(size 0.762 0.762)
+				(thickness 0.127)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "91b511e6-1e7e-4d50-8ee9-78c4e9d783e2")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f41dccb5-bba7-4baf-9a32-8d93294da0ef")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -0.762 -0.7096)
+		(end 0.762 -0.7096)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "95caa25e-1c95-45b0-8d4b-d8ac7254b936")
+	)
+	(fp_line
+		(start -0.762 0.7096)
+		(end 0.762 0.7096)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "576b5edd-fa66-47b6-88b7-15f791a44ff9")
+	)
+	(pad "1" smd rect
+		(at -0.6731 0)
+		(size 0.8636 0.9906)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "40e55534-2330-4cc8-b321-c0cb1f6b2b23")
+	)
+	(pad "2" smd rect
+		(at 0.6731 0)
+		(size 0.8636 0.9906)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "5c3fcef0-48d3-400e-9573-63ac7ef27fb9")
+	)
+	(embedded_fonts no)
+	(model "C:/Engineering/KiCAD_Libraries-master/3D/Discrete/Passive/Inductors/STEP/FB0603.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )

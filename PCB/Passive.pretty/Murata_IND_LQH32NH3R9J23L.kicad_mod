@@ -1,0 +1,253 @@
+(footprint "Murata_IND_LQH32NH3R9J23L"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.135 -2.405 0)
+		(layer "F.SilkS")
+		(uuid "fe49ba0e-8e2b-464b-9209-1864b75eac21")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Murata_LQH32NH3R9J23L"
+		(at 0 2.405 0)
+		(layer "F.Fab")
+		(uuid "6876234c-2986-4ec9-8607-40236eaa9dcb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "75b1b217-729c-401e-ad30-d5b487ef0f27")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4ec5d305-c3e8-48df-a0d6-20a5ab64e906")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_poly
+		(pts
+			(xy -2.85 -0.6) (xy -1.75 -0.6) (xy -1.75 -1.1) (xy -0.55 -1.1) (xy -0.55 1.1) (xy -1.75 1.1) (xy -1.75 0.6)
+			(xy -2.85 0.6)
+		)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Mask")
+		(uuid "caff7892-a6fe-42d4-bfb9-b0654c61b352")
+	)
+	(fp_poly
+		(pts
+			(xy 0.55 -1.1) (xy 1.75 -1.1) (xy 1.75 -0.6) (xy 2.85 -0.6) (xy 2.85 0.6) (xy 1.75 0.6) (xy 1.75 1.1)
+			(xy 0.55 1.1)
+		)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Mask")
+		(uuid "5c320aca-907a-4048-aeb2-b9da15d6da98")
+	)
+	(fp_line
+		(start -1.6 -1.3135)
+		(end 1.6 -1.3135)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c5288a17-3588-44c0-aa92-a07989d14453")
+	)
+	(fp_line
+		(start 1.6 1.3135)
+		(end -1.6 1.3135)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "24957f20-c3a4-4eae-be6c-a6d2c7cfb6bd")
+	)
+	(fp_poly
+		(pts
+			(xy -1.65 -1) (xy -0.65 -1) (xy -0.65 1) (xy -1.65 1) (xy -1.65 0.5) (xy -2.75 0.5) (xy -2.75 -0.5)
+			(xy -1.65 -0.5)
+		)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "26eadf5c-a5ff-48b7-9a5d-3bf9641aa86c")
+	)
+	(fp_poly
+		(pts
+			(xy 1.65 1) (xy 0.65 1) (xy 0.65 -1) (xy 1.65 -1) (xy 1.65 -0.5) (xy 2.75 -0.5) (xy 2.75 0.5) (xy 1.65 0.5)
+		)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "4b5e4069-3bd7-4e5e-8638-13a3a9811c15")
+	)
+	(fp_line
+		(start -3 -1.5)
+		(end 3 -1.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1c0b424c-da1c-4a21-b1b1-c7f20d167754")
+	)
+	(fp_line
+		(start -3 1.5)
+		(end -3 -1.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "211e8f90-61ee-401a-bb25-1e9f06aad88a")
+	)
+	(fp_line
+		(start 3 -1.5)
+		(end 3 1.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "84c64456-5fb3-4e6c-8b73-644a5e1ba3ec")
+	)
+	(fp_line
+		(start 3 1.5)
+		(end -3 1.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "70f7ef5c-878d-4324-9196-2bb7c85fb1f8")
+	)
+	(fp_line
+		(start -1.6 -1.25)
+		(end 1.6 -1.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1238a783-3cfa-43fb-8610-0407dbe2ab39")
+	)
+	(fp_line
+		(start -1.6 1.25)
+		(end -1.6 -1.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "428ec80d-c543-43ee-92e6-0e436effc46f")
+	)
+	(fp_line
+		(start 1.6 -1.25)
+		(end 1.6 1.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "56738e1b-752f-4315-9805-4ca91915166a")
+	)
+	(fp_line
+		(start 1.6 1.25)
+		(end -1.6 1.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "88bf87f6-40ca-4b26-a326-6a060547db33")
+	)
+	(pad "1" smd custom
+		(at -1.15 0)
+		(size 1 2)
+		(layers "F.Cu")
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(xy -0.5 -1) (xy 0.5 -1) (xy 0.5 1) (xy -0.5 1) (xy -0.5 0.5) (xy -1.6 0.5) (xy -1.6 -0.5) (xy -0.5 -0.5)
+				)
+				(width 0.01)
+				(fill yes)
+			)
+		)
+		(uuid "c661915b-2222-477c-9148-0cf75a701b47")
+	)
+	(pad "2" smd custom
+		(at 1.15 0)
+		(size 1 2)
+		(layers "F.Cu")
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(xy 0.5 1) (xy -0.5 1) (xy -0.5 -1) (xy 0.5 -1) (xy 0.5 -0.5) (xy 1.6 -0.5) (xy 1.6 0.5) (xy 0.5 0.5)
+				)
+				(width 0.01)
+				(fill yes)
+			)
+		)
+		(uuid "e2730899-edfd-4549-bdc6-19966e52f580")
+	)
+	(embedded_fonts no)
+	(model "C:/Engineering/KiCAD_Libraries-master/3D/Discrete/Passive/Inductors/STEP/Murata_LQH32NH3R9J23L.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)

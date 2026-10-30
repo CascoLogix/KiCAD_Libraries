@@ -1,0 +1,111 @@
+(footprint "HEADER_100MIL_1R6P_EDGE"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 3.81 0)
+		(layer "F.SilkS")
+		(uuid "53c50a52-1ed7-45d0-b086-adbdeca12b59")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "HEADER_100MIL_1R6P_EDGE"
+		(at 0 -3.175 0)
+		(layer "F.Fab")
+		(uuid "1a844d53-f995-40e1-ad0d-6634b6bb0eda")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "00dc1e04-b427-4922-80f3-613b7723077c")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "82892f23-49c3-4caa-b610-90908476c92c")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr exclude_from_pos_files exclude_from_bom)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_text user "${REFERENCE}"
+		(at 0 3.81 0)
+		(layer "F.Fab")
+		(uuid "ca8c929b-720c-4071-a75d-52cf5a829e6a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -6.35 0)
+		(size 1.27 3.81)
+		(layers "F.Cu" "F.Mask")
+		(uuid "63996564-7cd7-4a36-abc1-4aaed7f876d6")
+	)
+	(pad "2" smd rect
+		(at -3.81 0)
+		(size 1.27 3.81)
+		(layers "F.Cu" "F.Mask")
+		(uuid "9cdbf468-38a8-4ee6-9dd3-fb742a9d0233")
+	)
+	(pad "3" smd rect
+		(at -1.27 0)
+		(size 1.27 3.81)
+		(layers "F.Cu" "F.Mask")
+		(uuid "3326b175-a918-4bf9-85f1-96d25b80a48a")
+	)
+	(pad "3" smd rect
+		(at 3.92 0)
+		(size 1.27 3.81)
+		(layers "F.Cu" "F.Mask")
+		(uuid "6b91246c-d325-4fe7-b123-b53cede7b4dc")
+	)
+	(pad "4" smd rect
+		(at 1.27 0)
+		(size 1.27 3.81)
+		(layers "F.Cu" "F.Mask")
+		(uuid "e3239a63-c69a-428a-98bb-8a46776c9db4")
+	)
+	(pad "4" smd rect
+		(at 6.46 0)
+		(size 1.27 3.81)
+		(layers "F.Cu" "F.Mask")
+		(uuid "d5fe4681-0cba-4eef-b132-1a20eb83f707")
+	)
+	(embedded_fonts no)
+	(model "C:/Engineering/KiCAD_Libraries-master/3D/Headers/STEP/HEADER_M_2.54MM_1R6P_0.230H_ST_SN_PTH.STEP"
+		(offset
+			(xyz 6.35 -1.905 0.381)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -180)
+		)
+	)
+)
